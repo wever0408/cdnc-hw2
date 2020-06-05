@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9b237cb-334e-4937-ad08-197d66b428b9</testCaseGuid>
+   <variable>
+      <defaultValue>'hcmus-cdnc'</defaultValue>
+      <description></description>
+      <id>d443aa48-168e-4ee2-861f-e1691d01a9ca</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'aeHFOx8jV/A='</defaultValue>
+      <description></description>
+      <id>5b1989f4-258a-4426-b67d-84f151e78de7</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

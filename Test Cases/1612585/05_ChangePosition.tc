@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>05_ChangePosition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1304bbb3-cdd3-4ff7-8316-ac599b758cfc</testCaseGuid>
+   <variable>
+      <defaultValue>'dev'</defaultValue>
+      <description></description>
+      <id>b38eae48-bb53-4736-8878-83d76b4b175b</id>
+      <masked>false</masked>
+      <name>position</name>
+   </variable>
+</TestCaseEntity>

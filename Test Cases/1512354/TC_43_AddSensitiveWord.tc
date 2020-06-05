@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_43_AddSensitiveWord</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f702499d-daf5-40d1-9d74-4d4c04fcee8f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8b5ecb85-1031-4e26-9165-9b2f2ba26bc2</id>
+      <masked>false</masked>
+      <name>sensitiveWord</name>
+   </variable>
+</TestCaseEntity>

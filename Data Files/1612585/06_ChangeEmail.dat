@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>06_ChangeEmail</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>03e9ec62-5f89-4b93-a039-03523f71654d</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>xuan%40 xuan%40 aeHFOx8jV%2FA%3D</data>
+   <data>xuanghjem210%40gmail.com xuanghjem210%40gmail.com aeHFOx8jV%2FA%3D</data>
+   <data>xuanghjem210%40gmail.com xuanghjem%40gmail.com Tmthy4UQpG8%3D</data>
+   <data>sss.com sss.com Tmthy4UQpG8%3D</data>
+   <data>email%40email.com email%40email%23 aeHFOx8jV%2FA%3D</data>
+   <data>hcmus-cdnc%40gmail.com hcmus-cdnc%40gmail.com aeHFOx8jV%2FA%3D</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>email</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>confirm_email</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>password</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

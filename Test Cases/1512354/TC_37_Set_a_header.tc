@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_37_Set_a_header</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b08d3a1-e910-4963-a87b-93c0e6b96d2f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ff792f08-100b-4c6d-b7ca-19f9ab230e0f</id>
+      <masked>false</masked>
+      <name>content</name>
+   </variable>
+</TestCaseEntity>

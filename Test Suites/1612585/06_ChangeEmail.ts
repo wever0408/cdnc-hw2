@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>06_ChangeEmail</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>73200189-e736-450f-98f1-a2bf130259ac</testSuiteGuid>
+   <testCaseLink>
+      <guid>a63122e1-784d-4469-8115-e3440b5e7a53</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/1612585/06_ChangeEmail</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>fea1c356-9450-4f81-8172-3ec51528a247</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/1612585/06_ChangeEmail</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>fea1c356-9450-4f81-8172-3ec51528a247</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>a267b90d-1926-4dcc-bcb4-f6ebc6313087</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fea1c356-9450-4f81-8172-3ec51528a247</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>confirm_email</value>
+         <variableId>aac9a87a-e2d3-4681-9ec5-9985c676b734</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>fea1c356-9450-4f81-8172-3ec51528a247</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>088d1a80-f104-4827-8e59-6eac845e0c08</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

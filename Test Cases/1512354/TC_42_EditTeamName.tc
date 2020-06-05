@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_42_EditTeamName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2b06794-76a4-462d-89a6-b8f21bdc418c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>361a3478-bd02-4eba-b781-98d48638450f</id>
+      <masked>false</masked>
+      <name>teamName</name>
+   </variable>
+</TestCaseEntity>

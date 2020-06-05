@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_39_Edit_channel_purpose</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a7ec71e-93cc-4ae7-9752-e83b6a2a3640</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73beb1bb-a581-4590-abda-3f79c6090f40</id>
+      <masked>false</masked>
+      <name>channelPurpose</name>
+   </variable>
+</TestCaseEntity>

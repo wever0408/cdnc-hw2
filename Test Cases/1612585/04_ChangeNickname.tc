@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>04_ChangeNickname</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5642ce4f-2b8e-49ae-acb4-edc8e7b35902</testCaseGuid>
+   <variable>
+      <defaultValue>'chipuku'</defaultValue>
+      <description></description>
+      <id>70e6009f-feb9-4bfe-a19b-237b1c01a1ad</id>
+      <masked>false</masked>
+      <name>nickname</name>
+   </variable>
+</TestCaseEntity>

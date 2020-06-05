@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>editTeamDescription</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>3be2e9f9-580f-468d-87b0-b32b6a75fb13</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Nh%C3%B3m+thi%E1%BA%BFt+k%E1%BA%BF</data>
+   <data>Nh%C3%B3m+Ph%C3%A1t+tri%E1%BB%83n</data>
+   <data>Nh%C3%B3m+qu%E1%BA%A3ng+b%C3%A1+s%E1%BA%A3n+ph%E1%BA%A9m</data>
+   <data>Nh%C3%B3m+thu+th%E1%BA%ADp+y%C3%AAu+c%E1%BA%A7u</data>
+   <data>Nh%C3%B3m+%C4%91%E1%BA%A3m+b%E1%BA%A3o+ch%E1%BA%A5t+l%C6%B0%E1%BB%A3ng</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>description</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

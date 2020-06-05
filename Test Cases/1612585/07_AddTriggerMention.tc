@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>07_AddTriggerMention</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1a2359a3-d821-45e9-a996-2df2eaf85f21</testCaseGuid>
+   <variable>
+      <defaultValue>'Nghiem'</defaultValue>
+      <description></description>
+      <id>7c6556f0-771c-45fd-b1da-aa9d47848143</id>
+      <masked>false</masked>
+      <name>trigger_name</name>
+   </variable>
+</TestCaseEntity>

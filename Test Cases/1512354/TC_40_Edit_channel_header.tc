@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_40_Edit_channel_header</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de7fade2-61e3-455f-8754-2b934f478250</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1e1e7ddf-448e-49d2-8358-e4bffbebd055</id>
+      <masked>false</masked>
+      <name>content</name>
+   </variable>
+</TestCaseEntity>

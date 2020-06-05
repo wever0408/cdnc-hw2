@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_36_Edit_UserName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d955bc6-dd0b-4d6f-8461-d4d206b1822c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>14bdf211-e387-4c82-9d07-5f327dcf0348</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>set_a_headerWithInternal</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>0027851b-e55e-4c58-a776-e6afec87617f</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>999999999213193921129319</data>
+   <data>%24%23%25%40%23%5E%5E%23%25%23%23%25%25</data>
+   <data>%3E%3CV%C4%90GDGR%24RFD</data>
+   <data>%3Cdiv%3E%3Cdiv%3E</data>
+   <data>thanh+set+header</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>content</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

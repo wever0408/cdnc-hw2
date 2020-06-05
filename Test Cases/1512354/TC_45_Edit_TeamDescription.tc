@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_45_Edit_TeamDescription</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3aa4f51e-b957-43df-8394-630d36306d90</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>88c3c0cc-2f38-45ea-aab0-b34c58c4f0b3</id>
+      <masked>false</masked>
+      <name>description</name>
+   </variable>
+</TestCaseEntity>

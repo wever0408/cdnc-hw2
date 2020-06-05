@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>addSensitiveWordWithInternal</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>5094dd7e-2216-4096-90ac-a010437ce17b</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>t%E1%BB%AB+nh%E1%BA%A1y+c%E1%BA%A3m</data>
+   <data>t%E1%BB%AB+x%C3%BAc+ph%E1%BA%A1m</data>
+   <data>ch%E1%BB%ADi+th%E1%BB%81</data>
+   <data>k%C3%ADch+%C4%91%E1%BB%99ng</data>
+   <data>h%C3%A0nh+%C4%91%E1%BB%99ng+nguy+hi%E1%BB%83m</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>sensitiveWord</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

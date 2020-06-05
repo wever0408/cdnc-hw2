@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03_ChangeName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e2b8ac9-874a-46d7-bf94-2ae7fe80225a</testCaseGuid>
+   <variable>
+      <defaultValue>'Nguyen'</defaultValue>
+      <description></description>
+      <id>2dc93fd8-0297-46e4-a897-85a4eb22a067</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Xuan Nghiem'</defaultValue>
+      <description></description>
+      <id>0fe31016-75bc-430c-892d-c6db37a0a32c</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+</TestCaseEntity>

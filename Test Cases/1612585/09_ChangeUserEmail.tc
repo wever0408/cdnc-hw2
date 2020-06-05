@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>09_ChangeUserEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ffe9604-5595-462f-a5d3-7f3a8b80d4f2</testCaseGuid>
+   <variable>
+      <defaultValue>'xuanghjem@gmail.com'</defaultValue>
+      <description></description>
+      <id>85da14f5-b37e-4a14-94a9-80c2b395a943</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>edit_UserNameWithInternal</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>6d8f8c8d-78e7-4133-aa9d-5269603dd4df</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>tung</data>
+   <data>mai</data>
+   <data>lan</data>
+   <data>truc</data>
+   <data>anh</data>
+   <data>hcmus-cdnc</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>userName</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

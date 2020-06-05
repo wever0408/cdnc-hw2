@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06_ChangeEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ae7bf42-0190-404c-8592-eca3695074a9</testCaseGuid>
+   <variable>
+      <defaultValue>'xuanghjem@gmail.com'</defaultValue>
+      <description></description>
+      <id>a267b90d-1926-4dcc-bcb4-f6ebc6313087</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'xuanghjem@gmail.com'</defaultValue>
+      <description></description>
+      <id>aac9a87a-e2d3-4681-9ec5-9985c676b734</id>
+      <masked>false</masked>
+      <name>confirm_email</name>
+   </variable>
+   <variable>
+      <defaultValue>'aeHFOx8jV/A='</defaultValue>
+      <description></description>
+      <id>088d1a80-f104-4827-8e59-6eac845e0c08</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
