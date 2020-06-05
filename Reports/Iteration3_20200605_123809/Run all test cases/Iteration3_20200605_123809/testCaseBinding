@@ -1,0 +1,81 @@
+{"testCaseName":"Test Cases/1612427/11_Notification","testCaseId":"Test Cases/1612427/11_Notification"}
+{"testCaseName":"Test Cases/1612427/12_Create_Channel","testCaseId":"Test Cases/1612427/12_Create_Channel"}
+{"testCaseName":"Test Cases/1612427/13_UnmuteChannel","testCaseId":"Test Cases/1612427/13_UnmuteChannel"}
+{"testCaseName":"Test Cases/1612427/14_Hide_PinPosts","testCaseId":"Test Cases/1612427/14_Hide_PinPosts"}
+{"testCaseName":"Test Cases/1612427/15_OpenFlag","testCaseId":"Test Cases/1612427/15_OpenFlag"}
+{"testCaseName":"Test Cases/1612427/16_AssignPermission","testCaseId":"Test Cases/1612427/16_AssignPermission"}
+{"testCaseName":"Test Cases/1612427/17_SendIcon","testCaseId":"Test Cases/1612427/17_SendIcon"}
+{"testCaseName":"Test Cases/1612427/18_SwitchChannel","testCaseId":"Test Cases/1612427/18_SwitchChannel"}
+{"testCaseName":"Test Cases/1612427/19_InvitePeople","testCaseId":"Test Cases/1612427/19_InvitePeople"}
+{"testCaseName":"Test Cases/1612427/20_Search_Message","testCaseId":"Test Cases/1612427/20_Search_Message"}
+{"testCaseName":"Test Cases/1612567/21_CommentChannel","testCaseId":"Test Cases/1612567/21_CommentChannel"}
+{"testCaseName":"Test Cases/1612567/22_DirectMessage","testCaseId":"Test Cases/1612567/22_DirectMessage"}
+{"testCaseName":"Test Cases/1612567/23_Set_Domain_Email_SignUp","testCaseId":"Test Cases/1612567/23_Set_Domain_Email_SignUp"}
+{"testCaseName":"Test Cases/1612567/24_Setting_Searching","testCaseId":"Test Cases/1612567/24_Setting_Searching"}
+{"testCaseName":"Test Cases/1612567/25_CORS_Setting","testCaseId":"Test Cases/1612567/25_CORS_Setting"}
+{"testCaseName":"Test Cases/1612567/26_Call_API_Login","testCaseId":"Test Cases/1612567/26_Call_API_Login"}
+{"testCaseName":"Test Cases/1612567/27_Call_API_Channels_Info","testCaseId":"Test Cases/1612567/27_Call_API_Channels_Info"}
+{"testCaseName":"Test Cases/1612567/28_Call_API_ChangeName","testCaseId":"Test Cases/1612567/28_Call_API_ChangeName"}
+{"testCaseName":"Test Cases/1612567/29_Call_API_ResetPassword","testCaseId":"Test Cases/1612567/29_Call_API_ResetPassword"}
+{"testCaseName":"Test Cases/1612567/30_Call_API_Set_Permission","testCaseId":"Test Cases/1612567/30_Call_API_Set_Permission"}
+{"testCaseName":"Test Cases/1612567/31_Call_API_Search_User","testCaseId":"Test Cases/1612567/31_Call_API_Search_User"}
+{"testCaseName":"Test Cases/1612567/32_Call_API_Search_Tokens","testCaseId":"Test Cases/1612567/32_Call_API_Search_Tokens"}
+{"testCaseName":"Test Cases/1612567/33_Call_API_Get_Jobs","testCaseId":"Test Cases/1612567/33_Call_API_Get_Jobs"}
+{"testCaseName":"Test Cases/1612567/34_Call_API_Create_Job_By_Type","testCaseId":"Test Cases/1612567/34_Call_API_Create_Job_By_Type"}
+{"testCaseName":"Test Cases/1612567/35_Call_API_Cancel_Job","testCaseId":"Test Cases/1612567/35_Call_API_Cancel_Job"}
+{"testCaseName":"Test Cases/1612893/TC_36_Edit_UserName - Iteration 1","testCaseId":"Test Cases/1612893/TC_36_Edit_UserName","bindedValues":{"userName":"\u0027tung\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_36_Edit_UserName - Iteration 2","testCaseId":"Test Cases/1612893/TC_36_Edit_UserName","bindedValues":{"userName":"\u0027mai\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_36_Edit_UserName - Iteration 3","testCaseId":"Test Cases/1612893/TC_36_Edit_UserName","bindedValues":{"userName":"\u0027lan\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_36_Edit_UserName - Iteration 4","testCaseId":"Test Cases/1612893/TC_36_Edit_UserName","bindedValues":{"userName":"\u0027truc\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_36_Edit_UserName - Iteration 5","testCaseId":"Test Cases/1612893/TC_36_Edit_UserName","bindedValues":{"userName":"\u0027anh\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_36_Edit_UserName - Iteration 6","testCaseId":"Test Cases/1612893/TC_36_Edit_UserName","bindedValues":{"userName":"\u0027hcmus-cdnc\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_37_Set_a_header - Iteration 1","testCaseId":"Test Cases/1612893/TC_37_Set_a_header","bindedValues":{"content":"\u0027999999999213193921129319\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_37_Set_a_header - Iteration 2","testCaseId":"Test Cases/1612893/TC_37_Set_a_header","bindedValues":{"content":"\u0027$#%@#^^#%##%%\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_37_Set_a_header - Iteration 3","testCaseId":"Test Cases/1612893/TC_37_Set_a_header","bindedValues":{"content":"\u0027\u003e\u003cV\\u0110GDGR$RFD\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_37_Set_a_header - Iteration 4","testCaseId":"Test Cases/1612893/TC_37_Set_a_header","bindedValues":{"content":"\u0027\u003cdiv\u003e\u003cdiv\u003e\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_37_Set_a_header - Iteration 5","testCaseId":"Test Cases/1612893/TC_37_Set_a_header","bindedValues":{"content":"\u0027thanh set header\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_38_Rename_Channel - Iteration 1","testCaseId":"Test Cases/1612893/TC_38_Rename_Channel","bindedValues":{"channelName":"\u00271234565789087654334564576543234576433425764\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_38_Rename_Channel - Iteration 2","testCaseId":"Test Cases/1612893/TC_38_Rename_Channel","bindedValues":{"channelName":"\u0027RGDETHRDFE\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_38_Rename_Channel - Iteration 3","testCaseId":"Test Cases/1612893/TC_38_Rename_Channel","bindedValues":{"channelName":"\u0027%$##^$#%#%\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_38_Rename_Channel - Iteration 4","testCaseId":"Test Cases/1612893/TC_38_Rename_Channel","bindedValues":{"channelName":"\u0027\u003chtml\u003e\u003chtml\u003e\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_38_Rename_Channel - Iteration 5","testCaseId":"Test Cases/1612893/TC_38_Rename_Channel","bindedValues":{"channelName":"\u0027Thanh set Channel name\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_39_Edit_channel_purpose - Iteration 1","testCaseId":"Test Cases/1612893/TC_39_Edit_channel_purpose","bindedValues":{"channelPurpose":"\u0027THANH\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_39_Edit_channel_purpose - Iteration 2","testCaseId":"Test Cases/1612893/TC_39_Edit_channel_purpose","bindedValues":{"channelPurpose":"\u0027thanh\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_39_Edit_channel_purpose - Iteration 3","testCaseId":"Test Cases/1612893/TC_39_Edit_channel_purpose","bindedValues":{"channelPurpose":"\u00271234567890\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_39_Edit_channel_purpose - Iteration 4","testCaseId":"Test Cases/1612893/TC_39_Edit_channel_purpose","bindedValues":{"channelPurpose":"\u0027!@@#R#@@#@\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_39_Edit_channel_purpose - Iteration 5","testCaseId":"Test Cases/1612893/TC_39_Edit_channel_purpose","bindedValues":{"channelPurpose":"\u0027\u003cdiv\u003e\u003c/div\u003e\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_40_Edit_channel_header - Iteration 1","testCaseId":"Test Cases/1612893/TC_40_Edit_channel_header","bindedValues":{"content":"\u0027999999999213193921129319\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_40_Edit_channel_header - Iteration 2","testCaseId":"Test Cases/1612893/TC_40_Edit_channel_header","bindedValues":{"content":"\u0027$#%@#^^#%##%%\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_40_Edit_channel_header - Iteration 3","testCaseId":"Test Cases/1612893/TC_40_Edit_channel_header","bindedValues":{"content":"\u0027\u003e\u003cV\\u0110GDGR$RFD\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_40_Edit_channel_header - Iteration 4","testCaseId":"Test Cases/1612893/TC_40_Edit_channel_header","bindedValues":{"content":"\u0027\u003cdiv\u003e\u003cdiv\u003e\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_40_Edit_channel_header - Iteration 5","testCaseId":"Test Cases/1612893/TC_40_Edit_channel_header","bindedValues":{"content":"\u0027thanh set header\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_41_CreateTeam - Iteration 1","testCaseId":"Test Cases/1612893/TC_41_CreateTeam","bindedValues":{"teamName":"\u0027Team1\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_41_CreateTeam - Iteration 2","testCaseId":"Test Cases/1612893/TC_41_CreateTeam","bindedValues":{"teamName":"\u0027Team2\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_41_CreateTeam - Iteration 3","testCaseId":"Test Cases/1612893/TC_41_CreateTeam","bindedValues":{"teamName":"\u0027Team3\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_41_CreateTeam - Iteration 4","testCaseId":"Test Cases/1612893/TC_41_CreateTeam","bindedValues":{"teamName":"\u0027Team4\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_41_CreateTeam - Iteration 5","testCaseId":"Test Cases/1612893/TC_41_CreateTeam","bindedValues":{"teamName":"\u0027Team5\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_42_EditTeamName - Iteration 1","testCaseId":"Test Cases/1612893/TC_42_EditTeamName","bindedValues":{"teamName":"\u0027Team-Tester\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_42_EditTeamName - Iteration 2","testCaseId":"Test Cases/1612893/TC_42_EditTeamName","bindedValues":{"teamName":"\u0027Team-Developer\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_42_EditTeamName - Iteration 3","testCaseId":"Test Cases/1612893/TC_42_EditTeamName","bindedValues":{"teamName":"\u0027Team-Designer\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_42_EditTeamName - Iteration 4","testCaseId":"Test Cases/1612893/TC_42_EditTeamName","bindedValues":{"teamName":"\u0027Team-Sale\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_42_EditTeamName - Iteration 5","testCaseId":"Test Cases/1612893/TC_42_EditTeamName","bindedValues":{"teamName":"\u0027hcmus-cdnc-team\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_43_AddSensitiveWord - Iteration 1","testCaseId":"Test Cases/1612893/TC_43_AddSensitiveWord","bindedValues":{"sensitiveWord":"\u0027t\\u1EEB nh\\u1EA1y c\\u1EA3m\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_43_AddSensitiveWord - Iteration 2","testCaseId":"Test Cases/1612893/TC_43_AddSensitiveWord","bindedValues":{"sensitiveWord":"\u0027t\\u1EEB x\\u00FAc ph\\u1EA1m\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_43_AddSensitiveWord - Iteration 3","testCaseId":"Test Cases/1612893/TC_43_AddSensitiveWord","bindedValues":{"sensitiveWord":"\u0027ch\\u1EEDi th\\u1EC1\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_43_AddSensitiveWord - Iteration 4","testCaseId":"Test Cases/1612893/TC_43_AddSensitiveWord","bindedValues":{"sensitiveWord":"\u0027k\\u00EDch \\u0111\\u1ED9ng\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_43_AddSensitiveWord - Iteration 5","testCaseId":"Test Cases/1612893/TC_43_AddSensitiveWord","bindedValues":{"sensitiveWord":"\u0027h\\u00E0nh \\u0111\\u1ED9ng nguy hi\\u1EC3m\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_44_AddEmailWhiteList - Iteration 1","testCaseId":"Test Cases/1612893/TC_44_AddEmailWhiteList","bindedValues":{"whiteList":"\u0027gmail.com\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_44_AddEmailWhiteList - Iteration 2","testCaseId":"Test Cases/1612893/TC_44_AddEmailWhiteList","bindedValues":{"whiteList":"\u0027outlook.com\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_44_AddEmailWhiteList - Iteration 3","testCaseId":"Test Cases/1612893/TC_44_AddEmailWhiteList","bindedValues":{"whiteList":"\u0027abc.com\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_44_AddEmailWhiteList - Iteration 4","testCaseId":"Test Cases/1612893/TC_44_AddEmailWhiteList","bindedValues":{"whiteList":"\u0027mattermost.com\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_44_AddEmailWhiteList - Iteration 5","testCaseId":"Test Cases/1612893/TC_44_AddEmailWhiteList","bindedValues":{"whiteList":"\u0027mattermost.org\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_45_Edit_TeamDescription - Iteration 1","testCaseId":"Test Cases/1612893/TC_45_Edit_TeamDescription","bindedValues":{"description":"\u0027Nh\\u00F3m thi\\u1EBFt k\\u1EBF\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_45_Edit_TeamDescription - Iteration 2","testCaseId":"Test Cases/1612893/TC_45_Edit_TeamDescription","bindedValues":{"description":"\u0027Nh\\u00F3m Ph\\u00E1t tri\\u1EC3n\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_45_Edit_TeamDescription - Iteration 3","testCaseId":"Test Cases/1612893/TC_45_Edit_TeamDescription","bindedValues":{"description":"\u0027Nh\\u00F3m qu\\u1EA3ng b\\u00E1 s\\u1EA3n ph\\u1EA9m\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_45_Edit_TeamDescription - Iteration 4","testCaseId":"Test Cases/1612893/TC_45_Edit_TeamDescription","bindedValues":{"description":"\u0027Nh\\u00F3m thu th\\u1EADp y\\u00EAu c\\u1EA7u\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_45_Edit_TeamDescription - Iteration 5","testCaseId":"Test Cases/1612893/TC_45_Edit_TeamDescription","bindedValues":{"description":"\u0027Nh\\u00F3m \\u0111\\u1EA3m b\\u1EA3o ch\\u1EA5t l\\u01B0\\u1EE3ng\u0027"}}
+{"testCaseName":"Test Cases/1612893/TC_46_ViewMember","testCaseId":"Test Cases/1612893/TC_46_ViewMember"}
+{"testCaseName":"Test Cases/1612893/TC_47_FlaggedPost","testCaseId":"Test Cases/1612893/TC_47_FlaggedPost"}
+{"testCaseName":"Test Cases/1612893/TC_48_ViewInfo","testCaseId":"Test Cases/1612893/TC_48_ViewInfo"}
+{"testCaseName":"Test Cases/1612893/TC_49_PinPost","testCaseId":"Test Cases/1612893/TC_49_PinPost"}
+{"testCaseName":"Test Cases/1612893/TC_50_AddToFavorite","testCaseId":"Test Cases/1612893/TC_50_AddToFavorite"}

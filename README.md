@@ -7,6 +7,6 @@
 
 | STT      | Họ và tên              | MSSV    |
 | -------- | -----------------------|-------- |
-| 1        | Nguyễn Xuân Nghiêm     | 1612427 |
-| 2        | Hứa Thanh Sơn          | 1612567 |
-| 3        | Phạm Nhựt Thanh        | 1612893 |
+| 1        | Đinh Ngọc Quang Huy    | 1512194 |
+| 2        | Đoàn An Nguyên         | 1512354 |
+| 3        | Nguyễn Xuân Tâm        | 1612585 |
