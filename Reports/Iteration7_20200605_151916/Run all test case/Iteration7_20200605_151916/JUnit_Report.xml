@@ -1565,8 +1565,8 @@
 2020-06-05 18:40:11 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_36_Edit_UserName" time="45.62" classname="Test Cases/1612893/TC_36_Edit_UserName" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:40:11 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_36_Edit_UserName: Test Cases/1612893/TC_36_Edit_UserName
+      <testcase name="Test Cases/1512354/TC_36_Edit_UserName" time="45.62" classname="Test Cases/1512354/TC_36_Edit_UserName" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:40:11 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_36_Edit_UserName: Test Cases/1512354/TC_36_Edit_UserName
 
 2020-06-05 18:40:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -1580,51 +1580,51 @@
 
 2020-06-05 18:40:24 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/login' successfully
 
-2020-06-05 18:40:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/36_Edit_UserName/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc@gmail.com"): Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1612893/36_Edit_UserName/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:40:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/36_Edit_UserName/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc@gmail.com"): Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1512354/36_Edit_UserName/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:40:28 - [MESSAGE][PASSED] - Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1612893/36_Edit_UserName/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:40:28 - [MESSAGE][PASSED] - Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1512354/36_Edit_UserName/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:40:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1612893/36_Edit_UserName/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612893/36_Edit_UserName/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:40:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1512354/36_Edit_UserName/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512354/36_Edit_UserName/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:40:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612893/36_Edit_UserName/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:40:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512354/36_Edit_UserName/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:40:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/36_Edit_UserName/Page_Mattermost/span_Sign in")): Object: 'Object Repository/1612893/36_Edit_UserName/Page_Mattermost/span_Sign in' is clicked on
+2020-06-05 18:40:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/36_Edit_UserName/Page_Mattermost/span_Sign in")): Object: 'Object Repository/1512354/36_Edit_UserName/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 18:40:30 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/36_Edit_UserName/Page_Mattermost/span_Sign in' is clicked on
+2020-06-05 18:40:30 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/36_Edit_UserName/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 18:40:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span")): Object: 'Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' is clicked on
+2020-06-05 18:40:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span")): Object: 'Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' is clicked on
 
-2020-06-05 18:40:45 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' is clicked on
+2020-06-05 18:40:45 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' is clicked on
 
-2020-06-05 18:40:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Account Settings")): Object: 'Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Account Settings' is clicked on
+2020-06-05 18:40:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Account Settings")): Object: 'Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Account Settings' is clicked on
 
-2020-06-05 18:40:48 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Account Settings' is clicked on
+2020-06-05 18:40:48 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Account Settings' is clicked on
 
-2020-06-05 18:40:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit")): Object: 'Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit' is clicked on
+2020-06-05 18:40:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit")): Object: 'Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit' is clicked on
 
-2020-06-05 18:40:50 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit' is clicked on
+2020-06-05 18:40:50 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit' is clicked on
 
-2020-06-05 18:40:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Username_username"), userName): Text '' is set on object 'Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Username_username'
+2020-06-05 18:40:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Username_username"), userName): Text '' is set on object 'Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Username_username'
 
-2020-06-05 18:40:51 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Username_username'
+2020-06-05 18:40:51 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Username_username'
 
-2020-06-05 18:40:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save")): Object: 'Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save' is clicked on
+2020-06-05 18:40:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save")): Object: 'Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save' is clicked on
 
-2020-06-05 18:40:53 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save' is clicked on
+2020-06-05 18:40:53 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save' is clicked on
 
-2020-06-05 18:40:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_")): Object: 'Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_' is clicked on
+2020-06-05 18:40:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_")): Object: 'Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_' is clicked on
 
-2020-06-05 18:40:54 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_' is clicked on
+2020-06-05 18:40:54 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/36_Edit_UserName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_' is clicked on
 
 2020-06-05 18:40:54 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:40:56 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_37_Set_a_header" time="70.754" classname="Test Cases/1612893/TC_37_Set_a_header" status="FAILED">
-         <failure type="FAILED" message="Test Cases/1612893/TC_37_Set_a_header FAILED.
+      <testcase name="Test Cases/1512354/TC_37_Set_a_header" time="70.754" classname="Test Cases/1512354/TC_37_Set_a_header" status="FAILED">
+         <failure type="FAILED" message="Test Cases/1512354/TC_37_Set_a_header FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -1646,7 +1646,7 @@ com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'O
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -1655,9 +1655,9 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more
 "/>
-         <system-out><![CDATA[2020-06-05 18:40:56 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_37_Set_a_header: Test Cases/1612893/TC_37_Set_a_header FAILED.
+         <system-out><![CDATA[2020-06-05 18:40:56 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_37_Set_a_header: Test Cases/1512354/TC_37_Set_a_header FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -1679,7 +1679,7 @@ com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'O
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -1701,19 +1701,19 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:41:11 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/login' successfully
 
-2020-06-05 18:41:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1612893/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:41:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1512354/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:41:16 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1612893/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:41:16 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1512354/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:41:16 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1612893/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612893/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:41:16 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1512354/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512354/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:41:19 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612893/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:41:19 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512354/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:41:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1612893/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_2f2733"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612893/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:41:19 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1512354/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_2f2733"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512354/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:41:19 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612893/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:41:19 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512354/37_Set_a_header/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:41:19 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header")): Unable to click on object 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
+2020-06-05 18:41:19 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header")): Unable to click on object 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -1735,7 +1735,7 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -1753,7 +1753,7 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:42:03 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='channelIntro']/button[2]'. Please recheck the objects properties to make sure the desired element is located. 
 
-2020-06-05 18:42:07 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
+2020-06-05 18:42:07 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -1775,7 +1775,7 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -1791,9 +1791,9 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	... 13 more
 )
 [[ATTACHMENT|C:\\Users\\XuanNghiem\\Katalon Studio\\cdnc-homeword02\\Reports\\20200605_181916\\Run all test case\\20200605_181916\\1591357323971.png]]]]></system-out>
-         <system-err><![CDATA[2020-06-05 18:40:56 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_37_Set_a_header: Test Cases/1612893/TC_37_Set_a_header FAILED.
+         <system-err><![CDATA[2020-06-05 18:40:56 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_37_Set_a_header: Test Cases/1512354/TC_37_Set_a_header FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -1815,7 +1815,7 @@ com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'O
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -1824,8 +1824,8 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_38_Rename_Channel" time="64.249" classname="Test Cases/1612893/TC_38_Rename_Channel" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:42:07 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_38_Rename_Channel: Test Cases/1612893/TC_38_Rename_Channel
+      <testcase name="Test Cases/1512354/TC_38_Rename_Channel" time="64.249" classname="Test Cases/1512354/TC_38_Rename_Channel" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:42:07 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_38_Rename_Channel: Test Cases/1512354/TC_38_Rename_Channel
 
 2020-06-05 18:42:09 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -1841,41 +1841,41 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:42:24 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/login' successfully
 
-2020-06-05 18:42:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/38_Rename_channel/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1612893/38_Rename_channel/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:42:24 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/38_Rename_channel/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1512354/38_Rename_channel/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:42:28 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1612893/38_Rename_channel/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:42:28 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1512354/38_Rename_channel/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:42:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1612893/38_Rename_channel/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612893/38_Rename_channel/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:42:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1512354/38_Rename_channel/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512354/38_Rename_channel/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:42:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612893/38_Rename_channel/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:42:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512354/38_Rename_channel/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:42:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/38_Rename_channel/Page_Mattermost/span_Sign in")): Object: 'Object Repository/1612893/38_Rename_channel/Page_Mattermost/span_Sign in' is clicked on
+2020-06-05 18:42:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/38_Rename_channel/Page_Mattermost/span_Sign in")): Object: 'Object Repository/1512354/38_Rename_channel/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 18:42:30 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/38_Rename_channel/Page_Mattermost/span_Sign in' is clicked on
+2020-06-05 18:42:30 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/38_Rename_channel/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 18:42:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Town Square_channelHeaderDropdownIcon")): Object: 'Object Repository/1612893/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Town Square_channelHeaderDropdownIcon' is clicked on
+2020-06-05 18:42:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Town Square_channelHeaderDropdownIcon")): Object: 'Object Repository/1512354/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Town Square_channelHeaderDropdownIcon' is clicked on
 
-2020-06-05 18:42:49 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Town Square_channelHeaderDropdownIcon' is clicked on
+2020-06-05 18:42:49 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Town Square_channelHeaderDropdownIcon' is clicked on
 
-2020-06-05 18:42:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Rename Channel")): Object: 'Object Repository/1612893/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Rename Channel' is clicked on
+2020-06-05 18:42:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Rename Channel")): Object: 'Object Repository/1512354/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Rename Channel' is clicked on
 
-2020-06-05 18:42:51 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Rename Channel' is clicked on
+2020-06-05 18:42:51 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Rename Channel' is clicked on
 
-2020-06-05 18:42:51 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/input_Display Name_display_name"), channelName): Text '' is set on object 'Object Repository/1612893/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/input_Display Name_display_name'
+2020-06-05 18:42:51 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/input_Display Name_display_name"), channelName): Text '' is set on object 'Object Repository/1512354/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/input_Display Name_display_name'
 
-2020-06-05 18:42:53 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1612893/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/input_Display Name_display_name'
+2020-06-05 18:42:53 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1512354/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/input_Display Name_display_name'
 
-2020-06-05 18:42:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Save")): Object: 'Object Repository/1612893/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Save' is clicked on
+2020-06-05 18:42:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Save")): Object: 'Object Repository/1512354/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Save' is clicked on
 
-2020-06-05 18:42:55 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Save' is clicked on
+2020-06-05 18:42:55 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/38_Rename_channel/Page_Town Square - hcmus-cdnc-team Mattermost/span_Save' is clicked on
 
 2020-06-05 18:42:55 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:43:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_39_Edit_channel_purpose" time="36.805" classname="Test Cases/1612893/TC_39_Edit_channel_purpose" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:43:11 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_39_Edit_channel_purpose: Test Cases/1612893/TC_39_Edit_channel_purpose
+      <testcase name="Test Cases/1512354/TC_39_Edit_channel_purpose" time="36.805" classname="Test Cases/1512354/TC_39_Edit_channel_purpose" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:43:11 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_39_Edit_channel_purpose: Test Cases/1512354/TC_39_Edit_channel_purpose
 
 2020-06-05 18:43:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -1889,41 +1889,41 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:43:23 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/login' successfully
 
-2020-06-05 18:43:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/39_Edit_channel_purpose/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1612893/39_Edit_channel_purpose/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:43:23 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/39_Edit_channel_purpose/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1512354/39_Edit_channel_purpose/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:43:28 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1612893/39_Edit_channel_purpose/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:43:28 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1512354/39_Edit_channel_purpose/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:43:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1612893/39_Edit_channel_purpose/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612893/39_Edit_channel_purpose/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:43:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1512354/39_Edit_channel_purpose/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512354/39_Edit_channel_purpose/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:43:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612893/39_Edit_channel_purpose/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:43:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512354/39_Edit_channel_purpose/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:43:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/39_Edit_channel_purpose/Page_Mattermost/span_Sign in")): Object: 'Object Repository/1612893/39_Edit_channel_purpose/Page_Mattermost/span_Sign in' is clicked on
+2020-06-05 18:43:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/39_Edit_channel_purpose/Page_Mattermost/span_Sign in")): Object: 'Object Repository/1512354/39_Edit_channel_purpose/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 18:43:30 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/39_Edit_channel_purpose/Page_Mattermost/span_Sign in' is clicked on
+2020-06-05 18:43:30 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/39_Edit_channel_purpose/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 18:43:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36")): Object: 'Object Repository/1612893/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
+2020-06-05 18:43:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36")): Object: 'Object Repository/1512354/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
 
-2020-06-05 18:43:40 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
+2020-06-05 18:43:40 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
 
-2020-06-05 18:43:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit Channel Purpose")): Object: 'Object Repository/1612893/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit Channel Purpose' is clicked on
+2020-06-05 18:43:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit Channel Purpose")): Object: 'Object Repository/1512354/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit Channel Purpose' is clicked on
 
-2020-06-05 18:43:41 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit Channel Purpose' is clicked on
+2020-06-05 18:43:41 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit Channel Purpose' is clicked on
 
-2020-06-05 18:43:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/textarea_Thanh set Channel name_form-contro_b51f21"), channelPurpose): Text '' is set on object 'Object Repository/1612893/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/textarea_Thanh set Channel name_form-contro_b51f21'
+2020-06-05 18:43:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/textarea_Thanh set Channel name_form-contro_b51f21"), channelPurpose): Text '' is set on object 'Object Repository/1512354/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/textarea_Thanh set Channel name_form-contro_b51f21'
 
-2020-06-05 18:43:42 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1612893/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/textarea_Thanh set Channel name_form-contro_b51f21'
+2020-06-05 18:43:42 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1512354/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/textarea_Thanh set Channel name_form-contro_b51f21'
 
-2020-06-05 18:43:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save")): Object: 'Object Repository/1612893/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save' is clicked on
+2020-06-05 18:43:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save")): Object: 'Object Repository/1512354/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save' is clicked on
 
-2020-06-05 18:43:47 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save' is clicked on
+2020-06-05 18:43:47 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/39_Edit_channel_purpose/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save' is clicked on
 
 2020-06-05 18:43:47 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:43:48 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_40_Edit_channel_header" time="38.884" classname="Test Cases/1612893/TC_40_Edit_channel_header" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:43:48 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_40_Edit_channel_header: Test Cases/1612893/TC_40_Edit_channel_header
+      <testcase name="Test Cases/1512354/TC_40_Edit_channel_header" time="38.884" classname="Test Cases/1512354/TC_40_Edit_channel_header" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:43:48 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_40_Edit_channel_header: Test Cases/1512354/TC_40_Edit_channel_header
 
 2020-06-05 18:43:49 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -1937,43 +1937,43 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:44:00 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/login' successfully
 
-2020-06-05 18:44:00 - [TEST_STEP][PASSED] - setText(findTestObject("1612893/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1612893/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:44:00 - [TEST_STEP][PASSED] - setText(findTestObject("1512354/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1512354/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:44:05 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1612893/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:44:05 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1512354/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:44:05 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("1612893/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612893/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:44:05 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("1512354/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512354/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:44:06 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612893/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:44:06 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512354/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:44:06 - [TEST_STEP][PASSED] - sendKeys(findTestObject("1612893/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_2f2733"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612893/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:44:06 - [TEST_STEP][PASSED] - sendKeys(findTestObject("1512354/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_2f2733"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512354/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:44:07 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612893/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:44:07 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512354/40_Edit_channel_header/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:44:07 - [TEST_STEP][PASSED] - click(findTestObject("1612893/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36")): Object: 'Object Repository/1612893/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
+2020-06-05 18:44:07 - [TEST_STEP][PASSED] - click(findTestObject("1512354/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36")): Object: 'Object Repository/1512354/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
 
-2020-06-05 18:44:18 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
+2020-06-05 18:44:18 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
 
-2020-06-05 18:44:18 - [TEST_STEP][PASSED] - click(findTestObject("1612893/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit Channel Header")): Object: 'Object Repository/1612893/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit Channel Header' is clicked on
+2020-06-05 18:44:18 - [TEST_STEP][PASSED] - click(findTestObject("1512354/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit Channel Header")): Object: 'Object Repository/1512354/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit Channel Header' is clicked on
 
-2020-06-05 18:44:19 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit Channel Header' is clicked on
+2020-06-05 18:44:19 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Edit Channel Header' is clicked on
 
-2020-06-05 18:44:19 - [TEST_STEP][PASSED] - setText(findTestObject("1612893/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/textarea_thanh set header"), content): Text '' is set on object 'Object Repository/1612893/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/textarea_thanh set header'
+2020-06-05 18:44:19 - [TEST_STEP][PASSED] - setText(findTestObject("1512354/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/textarea_thanh set header"), content): Text '' is set on object 'Object Repository/1512354/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/textarea_thanh set header'
 
-2020-06-05 18:44:22 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1612893/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/textarea_thanh set header'
+2020-06-05 18:44:22 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1512354/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/textarea_thanh set header'
 
-2020-06-05 18:44:22 - [TEST_STEP][PASSED] - click(findTestObject("1612893/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save")): Object: 'Object Repository/1612893/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save' is clicked on
+2020-06-05 18:44:22 - [TEST_STEP][PASSED] - click(findTestObject("1512354/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save")): Object: 'Object Repository/1512354/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save' is clicked on
 
-2020-06-05 18:44:24 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save' is clicked on
+2020-06-05 18:44:24 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/40_Edit_channel_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Save' is clicked on
 
 2020-06-05 18:44:24 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:44:27 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_41_CreateTeam" time="68.344" classname="Test Cases/1612893/TC_41_CreateTeam" status="FAILED">
-         <failure type="FAILED" message="Test Cases/1612893/TC_41_CreateTeam FAILED.
+      <testcase name="Test Cases/1512354/TC_41_CreateTeam" time="68.344" classname="Test Cases/1512354/TC_41_CreateTeam" status="FAILED">
+         <failure type="FAILED" message="Test Cases/1512354/TC_41_CreateTeam FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -1995,7 +1995,7 @@ com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'O
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' located by 'By.xpath: //a[@id='select_teamTeamButton']/div/div/div/div' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' located by 'By.xpath: //a[@id='select_teamTeamButton']/div/div/div/div' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -2004,9 +2004,9 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more
 "/>
-         <system-out><![CDATA[2020-06-05 18:44:27 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_41_CreateTeam: Test Cases/1612893/TC_41_CreateTeam FAILED.
+         <system-out><![CDATA[2020-06-05 18:44:27 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_41_CreateTeam: Test Cases/1512354/TC_41_CreateTeam FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -2028,7 +2028,7 @@ com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'O
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' located by 'By.xpath: //a[@id='select_teamTeamButton']/div/div/div/div' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' located by 'By.xpath: //a[@id='select_teamTeamButton']/div/div/div/div' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -2050,19 +2050,19 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:44:41 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/login' successfully
 
-2020-06-05 18:44:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/41_CreateTeam/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1612893/41_CreateTeam/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:44:41 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/41_CreateTeam/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1512354/41_CreateTeam/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:44:46 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1612893/41_CreateTeam/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:44:46 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1512354/41_CreateTeam/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:44:46 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1612893/41_CreateTeam/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612893/41_CreateTeam/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:44:46 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1512354/41_CreateTeam/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512354/41_CreateTeam/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:44:47 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612893/41_CreateTeam/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:44:47 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512354/41_CreateTeam/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:44:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/41_CreateTeam/Page_Mattermost/button_Sign in")): Object: 'Object Repository/1612893/41_CreateTeam/Page_Mattermost/button_Sign in' is clicked on
+2020-06-05 18:44:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/41_CreateTeam/Page_Mattermost/button_Sign in")): Object: 'Object Repository/1512354/41_CreateTeam/Page_Mattermost/button_Sign in' is clicked on
 
-2020-06-05 18:44:48 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/41_CreateTeam/Page_Mattermost/button_Sign in' is clicked on
+2020-06-05 18:44:48 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/41_CreateTeam/Page_Mattermost/button_Sign in' is clicked on
 
-2020-06-05 18:44:48 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_")): Unable to click on object 'Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_'
+2020-06-05 18:44:48 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_")): Unable to click on object 'Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -2084,7 +2084,7 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' located by 'By.xpath: //a[@id='select_teamTeamButton']/div/div/div/div' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' located by 'By.xpath: //a[@id='select_teamTeamButton']/div/div/div/div' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -2102,7 +2102,7 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:45:33 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //a[@id='select_teamTeamButton']/div/div/div/div'. Please recheck the objects properties to make sure the desired element is located. 
 
-2020-06-05 18:45:36 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_'
+2020-06-05 18:45:36 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -2124,7 +2124,7 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' located by 'By.xpath: //a[@id='select_teamTeamButton']/div/div/div/div' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' located by 'By.xpath: //a[@id='select_teamTeamButton']/div/div/div/div' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -2140,9 +2140,9 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	... 13 more
 )
 [[ATTACHMENT|C:\\Users\\XuanNghiem\\Katalon Studio\\cdnc-homeword02\\Reports\\20200605_181916\\Run all test case\\20200605_181916\\1591357533254.png]]]]></system-out>
-         <system-err><![CDATA[2020-06-05 18:44:27 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_41_CreateTeam: Test Cases/1612893/TC_41_CreateTeam FAILED.
+         <system-err><![CDATA[2020-06-05 18:44:27 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_41_CreateTeam: Test Cases/1512354/TC_41_CreateTeam FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -2164,7 +2164,7 @@ com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'O
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' located by 'By.xpath: //a[@id='select_teamTeamButton']/div/div/div/div' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/41_CreateTeam/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/div_' located by 'By.xpath: //a[@id='select_teamTeamButton']/div/div/div/div' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -2173,8 +2173,8 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_42_EditTeamName" time="54.52" classname="Test Cases/1612893/TC_42_EditTeamName" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:45:36 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_42_EditTeamName: Test Cases/1612893/TC_42_EditTeamName
+      <testcase name="Test Cases/1512354/TC_42_EditTeamName" time="54.52" classname="Test Cases/1512354/TC_42_EditTeamName" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:45:36 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_42_EditTeamName: Test Cases/1512354/TC_42_EditTeamName
 
 2020-06-05 18:45:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -2190,49 +2190,49 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:45:58 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/login' successfully
 
-2020-06-05 18:45:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/42_EditTeamName/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc@gmail.com"): Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1612893/42_EditTeamName/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:45:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/42_EditTeamName/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc@gmail.com"): Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1512354/42_EditTeamName/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:46:04 - [MESSAGE][PASSED] - Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1612893/42_EditTeamName/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:46:04 - [MESSAGE][PASSED] - Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1512354/42_EditTeamName/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:46:04 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1612893/42_EditTeamName/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612893/42_EditTeamName/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:46:04 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1512354/42_EditTeamName/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512354/42_EditTeamName/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:46:05 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612893/42_EditTeamName/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:46:05 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512354/42_EditTeamName/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:46:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/42_EditTeamName/Page_Mattermost/button_Sign in")): Object: 'Object Repository/1612893/42_EditTeamName/Page_Mattermost/button_Sign in' is clicked on
+2020-06-05 18:46:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/42_EditTeamName/Page_Mattermost/button_Sign in")): Object: 'Object Repository/1512354/42_EditTeamName/Page_Mattermost/button_Sign in' is clicked on
 
-2020-06-05 18:46:06 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/42_EditTeamName/Page_Mattermost/button_Sign in' is clicked on
+2020-06-05 18:46:06 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/42_EditTeamName/Page_Mattermost/button_Sign in' is clicked on
 
-2020-06-05 18:46:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e")): Object: 'Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e' is clicked on
+2020-06-05 18:46:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e")): Object: 'Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e' is clicked on
 
-2020-06-05 18:46:16 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e' is clicked on
+2020-06-05 18:46:16 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e' is clicked on
 
-2020-06-05 18:46:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Team Settings")): Object: 'Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Team Settings' is clicked on
+2020-06-05 18:46:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Team Settings")): Object: 'Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Team Settings' is clicked on
 
-2020-06-05 18:46:17 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Team Settings' is clicked on
+2020-06-05 18:46:17 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Team Settings' is clicked on
 
-2020-06-05 18:46:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit")): Object: 'Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit' is clicked on
+2020-06-05 18:46:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit")): Object: 'Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit' is clicked on
 
-2020-06-05 18:46:19 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit' is clicked on
+2020-06-05 18:46:19 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit' is clicked on
 
-2020-06-05 18:46:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Team Name_teamName"), teamName): Text '' is set on object 'Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Team Name_teamName'
+2020-06-05 18:46:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Team Name_teamName"), teamName): Text '' is set on object 'Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Team Name_teamName'
 
-2020-06-05 18:46:21 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Team Name_teamName'
+2020-06-05 18:46:21 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Team Name_teamName'
 
-2020-06-05 18:46:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save")): Object: 'Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save' is clicked on
+2020-06-05 18:46:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save")): Object: 'Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save' is clicked on
 
-2020-06-05 18:46:25 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save' is clicked on
+2020-06-05 18:46:25 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save' is clicked on
 
-2020-06-05 18:46:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close")): Object: 'Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close' is clicked on
+2020-06-05 18:46:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close")): Object: 'Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close' is clicked on
 
-2020-06-05 18:46:27 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close' is clicked on
+2020-06-05 18:46:27 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/42_EditTeamName/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close' is clicked on
 
 2020-06-05 18:46:27 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:46:30 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_43_AddSensitiveWord" time="47.081" classname="Test Cases/1612893/TC_43_AddSensitiveWord" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:46:30 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_43_AddSensitiveWord: Test Cases/1612893/TC_43_AddSensitiveWord
+      <testcase name="Test Cases/1512354/TC_43_AddSensitiveWord" time="47.081" classname="Test Cases/1512354/TC_43_AddSensitiveWord" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:46:30 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_43_AddSensitiveWord: Test Cases/1512354/TC_43_AddSensitiveWord
 
 2020-06-05 18:46:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -2246,53 +2246,53 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:46:44 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/login' successfully
 
-2020-06-05 18:46:44 - [TEST_STEP][PASSED] - setText(findTestObject("1612893/43_AddSensitiveWord/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc@gmail.com"): Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1612893/43_AddSensitiveWord/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:46:44 - [TEST_STEP][PASSED] - setText(findTestObject("1512354/43_AddSensitiveWord/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc@gmail.com"): Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1512354/43_AddSensitiveWord/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:46:49 - [MESSAGE][PASSED] - Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1612893/43_AddSensitiveWord/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:46:49 - [MESSAGE][PASSED] - Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1512354/43_AddSensitiveWord/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:46:49 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("1612893/43_AddSensitiveWord/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612893/43_AddSensitiveWord/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:46:49 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("1512354/43_AddSensitiveWord/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512354/43_AddSensitiveWord/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:46:50 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612893/43_AddSensitiveWord/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:46:50 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512354/43_AddSensitiveWord/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:46:50 - [TEST_STEP][PASSED] - click(findTestObject("1612893/43_AddSensitiveWord/Page_Mattermost/button_Sign in")): Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Mattermost/button_Sign in' is clicked on
+2020-06-05 18:46:50 - [TEST_STEP][PASSED] - click(findTestObject("1512354/43_AddSensitiveWord/Page_Mattermost/button_Sign in")): Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Mattermost/button_Sign in' is clicked on
 
-2020-06-05 18:46:51 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Mattermost/button_Sign in' is clicked on
+2020-06-05 18:46:51 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Mattermost/button_Sign in' is clicked on
 
-2020-06-05 18:46:51 - [TEST_STEP][PASSED] - click(findTestObject("1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e")): Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e' is clicked on
+2020-06-05 18:46:51 - [TEST_STEP][PASSED] - click(findTestObject("1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e")): Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e' is clicked on
 
-2020-06-05 18:47:04 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e' is clicked on
+2020-06-05 18:47:04 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e' is clicked on
 
-2020-06-05 18:47:04 - [TEST_STEP][PASSED] - click(findTestObject("1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Account Settings")): Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Account Settings' is clicked on
+2020-06-05 18:47:04 - [TEST_STEP][PASSED] - click(findTestObject("1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Account Settings")): Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Account Settings' is clicked on
 
-2020-06-05 18:47:06 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Account Settings' is clicked on
+2020-06-05 18:47:06 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Account Settings' is clicked on
 
-2020-06-05 18:47:06 - [TEST_STEP][PASSED] - click(findTestObject("1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Notifications")): Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Notifications' is clicked on
+2020-06-05 18:47:06 - [TEST_STEP][PASSED] - click(findTestObject("1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Notifications")): Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Notifications' is clicked on
 
-2020-06-05 18:47:07 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Notifications' is clicked on
+2020-06-05 18:47:07 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Notifications' is clicked on
 
-2020-06-05 18:47:07 - [TEST_STEP][PASSED] - click(findTestObject("1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit_1")): Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit_1' is clicked on
+2020-06-05 18:47:07 - [TEST_STEP][PASSED] - click(findTestObject("1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit_1")): Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit_1' is clicked on
 
-2020-06-05 18:47:09 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit_1' is clicked on
+2020-06-05 18:47:09 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit_1' is clicked on
 
-2020-06-05 18:47:09 - [TEST_STEP][PASSED] - setText(findTestObject("1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Other non-case sensitive words separa_48b795"), sensitiveWord): Text '' is set on object 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Other non-case sensitive words separa_48b795'
+2020-06-05 18:47:09 - [TEST_STEP][PASSED] - setText(findTestObject("1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Other non-case sensitive words separa_48b795"), sensitiveWord): Text '' is set on object 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Other non-case sensitive words separa_48b795'
 
-2020-06-05 18:47:11 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Other non-case sensitive words separa_48b795'
+2020-06-05 18:47:11 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Other non-case sensitive words separa_48b795'
 
-2020-06-05 18:47:11 - [TEST_STEP][PASSED] - click(findTestObject("1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save")): Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save' is clicked on
+2020-06-05 18:47:11 - [TEST_STEP][PASSED] - click(findTestObject("1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save")): Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save' is clicked on
 
-2020-06-05 18:47:12 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save' is clicked on
+2020-06-05 18:47:12 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save' is clicked on
 
-2020-06-05 18:47:12 - [TEST_STEP][PASSED] - click(findTestObject("1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close")): Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close' is clicked on
+2020-06-05 18:47:12 - [TEST_STEP][PASSED] - click(findTestObject("1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close")): Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close' is clicked on
 
-2020-06-05 18:47:15 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close' is clicked on
+2020-06-05 18:47:15 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/43_AddSensitiveWord/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close' is clicked on
 
 2020-06-05 18:47:15 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:47:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_44_AddEmailWhiteList" time="59.442" classname="Test Cases/1612893/TC_44_AddEmailWhiteList" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:47:17 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_44_AddEmailWhiteList: Test Cases/1612893/TC_44_AddEmailWhiteList
+      <testcase name="Test Cases/1512354/TC_44_AddEmailWhiteList" time="59.442" classname="Test Cases/1512354/TC_44_AddEmailWhiteList" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:47:17 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_44_AddEmailWhiteList: Test Cases/1512354/TC_44_AddEmailWhiteList
 
 2020-06-05 18:47:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -2306,51 +2306,51 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:47:29 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/login' successfully
 
-2020-06-05 18:47:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/44_AddEmailWhiteList/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc@gmail.com"): Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1612893/44_AddEmailWhiteList/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:47:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/44_AddEmailWhiteList/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc@gmail.com"): Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1512354/44_AddEmailWhiteList/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:47:34 - [MESSAGE][PASSED] - Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1612893/44_AddEmailWhiteList/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:47:34 - [MESSAGE][PASSED] - Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1512354/44_AddEmailWhiteList/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:47:34 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1612893/44_AddEmailWhiteList/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612893/44_AddEmailWhiteList/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:47:34 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1512354/44_AddEmailWhiteList/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512354/44_AddEmailWhiteList/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:47:35 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612893/44_AddEmailWhiteList/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 18:47:35 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512354/44_AddEmailWhiteList/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 18:47:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/44_AddEmailWhiteList/Page_Mattermost/button_Sign in")): Object: 'Object Repository/1612893/44_AddEmailWhiteList/Page_Mattermost/button_Sign in' is clicked on
+2020-06-05 18:47:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/44_AddEmailWhiteList/Page_Mattermost/button_Sign in")): Object: 'Object Repository/1512354/44_AddEmailWhiteList/Page_Mattermost/button_Sign in' is clicked on
 
-2020-06-05 18:47:36 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/44_AddEmailWhiteList/Page_Mattermost/button_Sign in' is clicked on
+2020-06-05 18:47:36 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/44_AddEmailWhiteList/Page_Mattermost/button_Sign in' is clicked on
 
-2020-06-05 18:47:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e")): Object: 'Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e' is clicked on
+2020-06-05 18:47:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e")): Object: 'Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e' is clicked on
 
-2020-06-05 18:47:50 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e' is clicked on
+2020-06-05 18:47:50 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_anh_style--none sidebar-header-dropd_e4937e' is clicked on
 
-2020-06-05 18:47:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Team Settings")): Object: 'Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Team Settings' is clicked on
+2020-06-05 18:47:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Team Settings")): Object: 'Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Team Settings' is clicked on
 
-2020-06-05 18:47:53 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Team Settings' is clicked on
+2020-06-05 18:47:53 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Team Settings' is clicked on
 
-2020-06-05 18:47:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit")): Object: 'Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit' is clicked on
+2020-06-05 18:47:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit")): Object: 'Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit' is clicked on
 
-2020-06-05 18:47:55 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit' is clicked on
+2020-06-05 18:47:55 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Edit' is clicked on
 
-2020-06-05 18:47:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Allow only users with a specific emai_44da11"), whiteList): Text '' is set on object 'Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Allow only users with a specific emai_44da11'
+2020-06-05 18:47:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Allow only users with a specific emai_44da11"), whiteList): Text '' is set on object 'Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Allow only users with a specific emai_44da11'
 
-2020-06-05 18:47:56 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Allow only users with a specific emai_44da11'
+2020-06-05 18:47:56 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/input_Allow only users with a specific emai_44da11'
 
-2020-06-05 18:47:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save")): Object: 'Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save' is clicked on
+2020-06-05 18:47:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save")): Object: 'Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save' is clicked on
 
-2020-06-05 18:47:59 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save' is clicked on
+2020-06-05 18:47:59 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Save' is clicked on
 
-2020-06-05 18:47:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close")): Object: 'Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close' is clicked on
+2020-06-05 18:47:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close")): Object: 'Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close' is clicked on
 
-2020-06-05 18:48:01 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close' is clicked on
+2020-06-05 18:48:01 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/44_AddEmailWhiteList/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Close' is clicked on
 
 2020-06-05 18:48:01 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:48:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_45_Edit_TeamDescription" time="75.804" classname="Test Cases/1612893/TC_45_Edit_TeamDescription" status="FAILED">
-         <failure type="FAILED" message="Test Cases/1612893/TC_45_Edit_TeamDescription FAILED.
+      <testcase name="Test Cases/1512354/TC_45_Edit_TeamDescription" time="75.804" classname="Test Cases/1512354/TC_45_Edit_TeamDescription" status="FAILED">
+         <failure type="FAILED" message="Test Cases/1512354/TC_45_Edit_TeamDescription FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -2372,7 +2372,7 @@ com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'O
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' located by 'By.xpath: //div[@id='headerInfo']/button/span' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' located by 'By.xpath: //div[@id='headerInfo']/button/span' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -2381,9 +2381,9 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more
 "/>
-         <system-out><![CDATA[2020-06-05 18:48:17 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_45_Edit_TeamDescription: Test Cases/1612893/TC_45_Edit_TeamDescription FAILED.
+         <system-out><![CDATA[2020-06-05 18:48:17 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_45_Edit_TeamDescription: Test Cases/1512354/TC_45_Edit_TeamDescription FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -2405,7 +2405,7 @@ com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'O
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' located by 'By.xpath: //div[@id='headerInfo']/button/span' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' located by 'By.xpath: //div[@id='headerInfo']/button/span' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -2427,19 +2427,19 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:48:29 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/hcmus-cdnc-team/channels/town-square' successfully
 
-2020-06-05 18:48:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612893/45_Edit_TeamDescription/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc@gmail.com"): Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1612893/45_Edit_TeamDescription/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:48:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512354/45_Edit_TeamDescription/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc@gmail.com"): Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1512354/45_Edit_TeamDescription/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:48:36 - [MESSAGE][PASSED] - Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1612893/45_Edit_TeamDescription/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 18:48:36 - [MESSAGE][PASSED] - Text 'hcmus-cdnc@gmail.com' is set on object 'Object Repository/1512354/45_Edit_TeamDescription/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 18:48:36 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1612893/45_Edit_TeamDescription/Page_Mattermost/input_Please enter your password_password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612893/45_Edit_TeamDescription/Page_Mattermost/input_Please enter your password_password'
+2020-06-05 18:48:36 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1512354/45_Edit_TeamDescription/Page_Mattermost/input_Please enter your password_password"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512354/45_Edit_TeamDescription/Page_Mattermost/input_Please enter your password_password'
 
-2020-06-05 18:48:37 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612893/45_Edit_TeamDescription/Page_Mattermost/input_Please enter your password_password'
+2020-06-05 18:48:37 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512354/45_Edit_TeamDescription/Page_Mattermost/input_Please enter your password_password'
 
-2020-06-05 18:48:37 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1612893/45_Edit_TeamDescription/Page_Mattermost/input_Please enter your password_password"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612893/45_Edit_TeamDescription/Page_Mattermost/input_Please enter your password_password'
+2020-06-05 18:48:37 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1512354/45_Edit_TeamDescription/Page_Mattermost/input_Please enter your password_password"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512354/45_Edit_TeamDescription/Page_Mattermost/input_Please enter your password_password'
 
-2020-06-05 18:48:38 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612893/45_Edit_TeamDescription/Page_Mattermost/input_Please enter your password_password'
+2020-06-05 18:48:38 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512354/45_Edit_TeamDescription/Page_Mattermost/input_Please enter your password_password'
 
-2020-06-05 18:48:38 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span")): Unable to click on object 'Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span'
+2020-06-05 18:48:38 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span")): Unable to click on object 'Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -2461,7 +2461,7 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' located by 'By.xpath: //div[@id='headerInfo']/button/span' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' located by 'By.xpath: //div[@id='headerInfo']/button/span' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -2479,7 +2479,7 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:49:32 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='headerInfo']/button/span'. Please recheck the objects properties to make sure the desired element is located. 
 
-2020-06-05 18:49:33 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span'
+2020-06-05 18:49:33 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -2501,7 +2501,7 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' located by 'By.xpath: //div[@id='headerInfo']/button/span' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' located by 'By.xpath: //div[@id='headerInfo']/button/span' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -2517,9 +2517,9 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	... 13 more
 )
 [[ATTACHMENT|C:\\Users\\XuanNghiem\\Katalon Studio\\cdnc-homeword02\\Reports\\20200605_181916\\Run all test case\\20200605_181916\\1591357772708.png]]]]></system-out>
-         <system-err><![CDATA[2020-06-05 18:48:17 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_45_Edit_TeamDescription: Test Cases/1612893/TC_45_Edit_TeamDescription FAILED.
+         <system-err><![CDATA[2020-06-05 18:48:17 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_45_Edit_TeamDescription: Test Cases/1512354/TC_45_Edit_TeamDescription FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -2541,7 +2541,7 @@ com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'O
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' located by 'By.xpath: //div[@id='headerInfo']/button/span' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/45_Edit_TeamDescription/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span' located by 'By.xpath: //div[@id='headerInfo']/button/span' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -2550,12 +2550,12 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_46_ViewMember" time="58.498" classname="Test Cases/1612893/TC_46_ViewMember" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:49:33 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_46_ViewMember: Test Cases/1612893/TC_46_ViewMember
+      <testcase name="Test Cases/1512354/TC_46_ViewMember" time="58.498" classname="Test Cases/1512354/TC_46_ViewMember" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:49:33 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_46_ViewMember: Test Cases/1512354/TC_46_ViewMember
 
-2020-06-05 18:49:33 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1612893/TC_Login"), ["username":"hcmus-cdnc@gmail.com", "password":"aeHFOx8jV/A="], STOP_ON_FAILURE): Call Test Case 'Test Cases/1612893/TC_Login' successfully
+2020-06-05 18:49:33 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1512354/TC_Login"), ["username":"hcmus-cdnc@gmail.com", "password":"aeHFOx8jV/A="], STOP_ON_FAILURE): Call Test Case 'Test Cases/1512354/TC_Login' successfully
 
-2020-06-05 18:49:34 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_Login: Test Cases/1612893/TC_Login
+2020-06-05 18:49:34 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_Login: Test Cases/1512354/TC_Login
 
 2020-06-05 18:49:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -2583,37 +2583,37 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:49:59 - [MESSAGE][PASSED] - Object: 'Object Repository/1612585/01_Login/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 18:49:59 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1612893/TC_Login' successfully
+2020-06-05 18:49:59 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1512354/TC_Login' successfully
 
-2020-06-05 18:49:59 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1612893/TC_ViewMember"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/1612893/TC_ViewMember' successfully
+2020-06-05 18:49:59 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1512354/TC_ViewMember"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/1512354/TC_ViewMember' successfully
 
-2020-06-05 18:49:59 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_ViewMember: Test Cases/1612893/TC_ViewMember
+2020-06-05 18:49:59 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_ViewMember: Test Cases/1512354/TC_ViewMember
 
-2020-06-05 18:50:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36")): Object: 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
+2020-06-05 18:50:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36")): Object: 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
 
-2020-06-05 18:50:12 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
+2020-06-05 18:50:12 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
 
-2020-06-05 18:50:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_View Members")): Object: 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_View Members' is clicked on
+2020-06-05 18:50:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_View Members")): Object: 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_View Members' is clicked on
 
-2020-06-05 18:50:13 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_View Members' is clicked on
+2020-06-05 18:50:13 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_View Members' is clicked on
 
-2020-06-05 18:50:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_")): Object: 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_' is clicked on
+2020-06-05 18:50:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_")): Object: 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_' is clicked on
 
-2020-06-05 18:50:22 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_' is clicked on
+2020-06-05 18:50:22 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_' is clicked on
 
 2020-06-05 18:50:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:50:31 - [MESSAGE][PASSED] - Browser is closed
 
-2020-06-05 18:50:31 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1612893/TC_ViewMember' successfully]]></system-out>
+2020-06-05 18:50:31 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1512354/TC_ViewMember' successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_47_FlaggedPost" time="32.993" classname="Test Cases/1612893/TC_47_FlaggedPost" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:50:31 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_47_FlaggedPost: Test Cases/1612893/TC_47_FlaggedPost
+      <testcase name="Test Cases/1512354/TC_47_FlaggedPost" time="32.993" classname="Test Cases/1512354/TC_47_FlaggedPost" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:50:31 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_47_FlaggedPost: Test Cases/1512354/TC_47_FlaggedPost
 
-2020-06-05 18:50:32 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1612893/TC_Login"), ["username":"hcmus-cdnc@gmail.com", "password":"aeHFOx8jV/A="], STOP_ON_FAILURE): Call Test Case 'Test Cases/1612893/TC_Login' successfully
+2020-06-05 18:50:32 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1512354/TC_Login"), ["username":"hcmus-cdnc@gmail.com", "password":"aeHFOx8jV/A="], STOP_ON_FAILURE): Call Test Case 'Test Cases/1512354/TC_Login' successfully
 
-2020-06-05 18:50:32 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_Login: Test Cases/1612893/TC_Login
+2020-06-05 18:50:32 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_Login: Test Cases/1512354/TC_Login
 
 2020-06-05 18:50:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -2639,29 +2639,29 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:50:51 - [MESSAGE][PASSED] - Object: 'Object Repository/1612585/01_Login/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 18:50:51 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1612893/TC_Login' successfully
+2020-06-05 18:50:51 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1512354/TC_Login' successfully
 
-2020-06-05 18:50:51 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1612893/TC_Flagged_Post"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/1612893/TC_Flagged_Post' successfully
+2020-06-05 18:50:51 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1512354/TC_Flagged_Post"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/1512354/TC_Flagged_Post' successfully
 
-2020-06-05 18:50:51 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_Flagged_Post: Test Cases/1612893/TC_Flagged_Post
+2020-06-05 18:50:51 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_Flagged_Post: Test Cases/1512354/TC_Flagged_Post
 
-2020-06-05 18:50:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton")): Object: 'Object Repository/1612893/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton' is clicked on
+2020-06-05 18:50:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton")): Object: 'Object Repository/1512354/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton' is clicked on
 
-2020-06-05 18:51:03 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton' is clicked on
+2020-06-05 18:51:03 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton' is clicked on
 
 2020-06-05 18:51:03 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:51:04 - [MESSAGE][PASSED] - Browser is closed
 
-2020-06-05 18:51:04 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1612893/TC_Flagged_Post' successfully]]></system-out>
+2020-06-05 18:51:04 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1512354/TC_Flagged_Post' successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_48_ViewInfo" time="31.124" classname="Test Cases/1612893/TC_48_ViewInfo" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:51:04 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_48_ViewInfo: Test Cases/1612893/TC_48_ViewInfo
+      <testcase name="Test Cases/1512354/TC_48_ViewInfo" time="31.124" classname="Test Cases/1512354/TC_48_ViewInfo" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:51:04 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_48_ViewInfo: Test Cases/1512354/TC_48_ViewInfo
 
-2020-06-05 18:51:05 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1612893/TC_Login"), ["username":"hcmus-cdnc@gmail.com", "password":"aeHFOx8jV/A="], STOP_ON_FAILURE): Call Test Case 'Test Cases/1612893/TC_Login' successfully
+2020-06-05 18:51:05 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1512354/TC_Login"), ["username":"hcmus-cdnc@gmail.com", "password":"aeHFOx8jV/A="], STOP_ON_FAILURE): Call Test Case 'Test Cases/1512354/TC_Login' successfully
 
-2020-06-05 18:51:05 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_Login: Test Cases/1612893/TC_Login
+2020-06-05 18:51:05 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_Login: Test Cases/1512354/TC_Login
 
 2020-06-05 18:51:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -2687,37 +2687,37 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:51:21 - [MESSAGE][PASSED] - Object: 'Object Repository/1612585/01_Login/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 18:51:21 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1612893/TC_Login' successfully
+2020-06-05 18:51:21 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1512354/TC_Login' successfully
 
-2020-06-05 18:51:21 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1612893/TC_ViewInfo"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/1612893/TC_ViewInfo' successfully
+2020-06-05 18:51:21 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1512354/TC_ViewInfo"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/1512354/TC_ViewInfo' successfully
 
-2020-06-05 18:51:21 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_ViewInfo: Test Cases/1612893/TC_ViewInfo
+2020-06-05 18:51:21 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_ViewInfo: Test Cases/1512354/TC_ViewInfo
 
-2020-06-05 18:51:22 - [TEST_STEP][PASSED] - click(findTestObject("1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36")): Object: 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
+2020-06-05 18:51:22 - [TEST_STEP][PASSED] - click(findTestObject("1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36")): Object: 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
 
-2020-06-05 18:51:32 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
+2020-06-05 18:51:32 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' is clicked on
 
-2020-06-05 18:51:32 - [TEST_STEP][PASSED] - click(findTestObject("1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_View Info")): Object: 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_View Info' is clicked on
+2020-06-05 18:51:32 - [TEST_STEP][PASSED] - click(findTestObject("1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_View Info")): Object: 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_View Info' is clicked on
 
-2020-06-05 18:51:33 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_View Info' is clicked on
+2020-06-05 18:51:33 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_View Info' is clicked on
 
-2020-06-05 18:51:33 - [TEST_STEP][PASSED] - click(findTestObject("1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_")): Object: 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_' is clicked on
+2020-06-05 18:51:33 - [TEST_STEP][PASSED] - click(findTestObject("1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_")): Object: 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_' is clicked on
 
-2020-06-05 18:51:33 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_' is clicked on
+2020-06-05 18:51:33 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_' is clicked on
 
 2020-06-05 18:51:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:51:35 - [MESSAGE][PASSED] - Browser is closed
 
-2020-06-05 18:51:35 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1612893/TC_ViewInfo' successfully]]></system-out>
+2020-06-05 18:51:35 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1512354/TC_ViewInfo' successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_49_PinPost" time="54.542" classname="Test Cases/1612893/TC_49_PinPost" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:51:35 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_49_PinPost: Test Cases/1612893/TC_49_PinPost
+      <testcase name="Test Cases/1512354/TC_49_PinPost" time="54.542" classname="Test Cases/1512354/TC_49_PinPost" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:51:35 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_49_PinPost: Test Cases/1512354/TC_49_PinPost
 
-2020-06-05 18:51:36 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1612893/TC_Login"), ["username":"hcmus-cdnc@gmail.com", "password":"aeHFOx8jV/A="], STOP_ON_FAILURE): Call Test Case 'Test Cases/1612893/TC_Login' successfully
+2020-06-05 18:51:36 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1512354/TC_Login"), ["username":"hcmus-cdnc@gmail.com", "password":"aeHFOx8jV/A="], STOP_ON_FAILURE): Call Test Case 'Test Cases/1512354/TC_Login' successfully
 
-2020-06-05 18:51:36 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_Login: Test Cases/1612893/TC_Login
+2020-06-05 18:51:36 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_Login: Test Cases/1512354/TC_Login
 
 2020-06-05 18:51:36 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -2743,29 +2743,29 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:52:00 - [MESSAGE][PASSED] - Object: 'Object Repository/1612585/01_Login/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 18:52:00 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1612893/TC_Login' successfully
+2020-06-05 18:52:00 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1512354/TC_Login' successfully
 
-2020-06-05 18:52:00 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1612893/TC_PinPost"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/1612893/TC_PinPost' successfully
+2020-06-05 18:52:00 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1512354/TC_PinPost"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/1512354/TC_PinPost' successfully
 
-2020-06-05 18:52:00 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_PinPost: Test Cases/1612893/TC_PinPost
+2020-06-05 18:52:00 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_PinPost: Test Cases/1512354/TC_PinPost
 
-2020-06-05 18:52:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/PinPost/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Thanh set Channel name_channelHeader_632246")): Object: 'Object Repository/1612893/PinPost/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Thanh set Channel name_channelHeader_632246' is clicked on
+2020-06-05 18:52:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/PinPost/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Thanh set Channel name_channelHeader_632246")): Object: 'Object Repository/1512354/PinPost/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Thanh set Channel name_channelHeader_632246' is clicked on
 
-2020-06-05 18:52:21 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/PinPost/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Thanh set Channel name_channelHeader_632246' is clicked on
+2020-06-05 18:52:21 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/PinPost/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Thanh set Channel name_channelHeader_632246' is clicked on
 
 2020-06-05 18:52:21 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:52:30 - [MESSAGE][PASSED] - Browser is closed
 
-2020-06-05 18:52:30 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1612893/TC_PinPost' successfully]]></system-out>
+2020-06-05 18:52:30 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1512354/TC_PinPost' successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_50_AddToFavorite" time="37.976" classname="Test Cases/1612893/TC_50_AddToFavorite" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:52:30 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_50_AddToFavorite: Test Cases/1612893/TC_50_AddToFavorite
+      <testcase name="Test Cases/1512354/TC_50_AddToFavorite" time="37.976" classname="Test Cases/1512354/TC_50_AddToFavorite" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:52:30 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_50_AddToFavorite: Test Cases/1512354/TC_50_AddToFavorite
 
-2020-06-05 18:52:31 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1612893/TC_Login"), ["username":"hcmus-cdnc@gmail.com", "password":"aeHFOx8jV/A="], STOP_ON_FAILURE): Call Test Case 'Test Cases/1612893/TC_Login' successfully
+2020-06-05 18:52:31 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1512354/TC_Login"), ["username":"hcmus-cdnc@gmail.com", "password":"aeHFOx8jV/A="], STOP_ON_FAILURE): Call Test Case 'Test Cases/1512354/TC_Login' successfully
 
-2020-06-05 18:52:31 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_Login: Test Cases/1612893/TC_Login
+2020-06-05 18:52:31 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_Login: Test Cases/1512354/TC_Login
 
 2020-06-05 18:52:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -2791,27 +2791,27 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 
 2020-06-05 18:52:52 - [MESSAGE][PASSED] - Object: 'Object Repository/1612585/01_Login/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 18:52:52 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1612893/TC_Login' successfully
+2020-06-05 18:52:52 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1512354/TC_Login' successfully
 
-2020-06-05 18:52:52 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1612893/TC_AddToFavorite"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/1612893/TC_AddToFavorite' successfully
+2020-06-05 18:52:52 - [TEST_STEP][PASSED] - callTestCase(findTestCase("1512354/TC_AddToFavorite"), [:], STOP_ON_FAILURE): Call Test Case 'Test Cases/1512354/TC_AddToFavorite' successfully
 
-2020-06-05 18:52:52 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_AddToFavorite: Test Cases/1612893/TC_AddToFavorite
+2020-06-05 18:52:52 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_AddToFavorite: Test Cases/1512354/TC_AddToFavorite
 
-2020-06-05 18:52:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o")): Object: 'Object Repository/1612893/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o' is clicked on
+2020-06-05 18:52:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o")): Object: 'Object Repository/1512354/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o' is clicked on
 
-2020-06-05 18:53:06 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o' is clicked on
+2020-06-05 18:53:06 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o' is clicked on
 
 2020-06-05 18:53:06 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:53:08 - [MESSAGE][PASSED] - Browser is closed
 
-2020-06-05 18:53:08 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1612893/TC_AddToFavorite' successfully]]></system-out>
+2020-06-05 18:53:08 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/1512354/TC_AddToFavorite' successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_AddToFavorite" time="0.183" classname="Test Cases/1612893/TC_AddToFavorite" status="FAILED">
-         <failure type="FAILED" message="Test Cases/1612893/TC_AddToFavorite FAILED.
+      <testcase name="Test Cases/1512354/TC_AddToFavorite" time="0.183" classname="Test Cases/1512354/TC_AddToFavorite" status="FAILED">
+         <failure type="FAILED" message="Test Cases/1512354/TC_AddToFavorite FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -2854,9 +2854,9 @@ Driver info: driver.version: RemoteWebDriver
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more
 "/>
-         <system-out><![CDATA[2020-06-05 18:53:08 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_AddToFavorite: Test Cases/1612893/TC_AddToFavorite FAILED.
+         <system-out><![CDATA[2020-06-05 18:53:08 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_AddToFavorite: Test Cases/1512354/TC_AddToFavorite FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -2900,7 +2900,7 @@ Driver info: driver.version: RemoteWebDriver
 	... 19 more
 
 
-2020-06-05 18:53:08 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/1612893/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o")): Unable to click on object 'Object Repository/1612893/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o'
+2020-06-05 18:53:08 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/1512354/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o")): Unable to click on object 'Object Repository/1512354/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -2952,7 +2952,7 @@ Driver info: driver.version: RemoteWebDriver
 
 2020-06-05 18:53:08 - [MESSAGE][WARNING] - Cannot take screenshot
 
-2020-06-05 18:53:08 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1612893/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o'
+2020-06-05 18:53:08 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1512354/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3001,9 +3001,9 @@ Driver info: driver.version: RemoteWebDriver
 	at Script1591207747589.run(Script1591207747589.groovy:19)
 	... 13 more
 )]]></system-out>
-         <system-err><![CDATA[2020-06-05 18:53:08 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_AddToFavorite: Test Cases/1612893/TC_AddToFavorite FAILED.
+         <system-err><![CDATA[2020-06-05 18:53:08 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_AddToFavorite: Test Cases/1512354/TC_AddToFavorite FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/AddToFavorite/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/i_Drop a file to upload it_icon fa fa-star-o'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3046,10 +3046,10 @@ Driver info: driver.version: RemoteWebDriver
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_Flagged_Post" time="0.175" classname="Test Cases/1612893/TC_Flagged_Post" status="FAILED">
-         <failure type="FAILED" message="Test Cases/1612893/TC_Flagged_Post FAILED.
+      <testcase name="Test Cases/1512354/TC_Flagged_Post" time="0.175" classname="Test Cases/1512354/TC_Flagged_Post" status="FAILED">
+         <failure type="FAILED" message="Test Cases/1512354/TC_Flagged_Post FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3092,9 +3092,9 @@ Driver info: driver.version: RemoteWebDriver
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more
 "/>
-         <system-out><![CDATA[2020-06-05 18:53:08 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_Flagged_Post: Test Cases/1612893/TC_Flagged_Post FAILED.
+         <system-out><![CDATA[2020-06-05 18:53:08 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_Flagged_Post: Test Cases/1512354/TC_Flagged_Post FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3138,7 +3138,7 @@ Driver info: driver.version: RemoteWebDriver
 	... 19 more
 
 
-2020-06-05 18:53:08 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/1612893/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton")): Unable to click on object 'Object Repository/1612893/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton'
+2020-06-05 18:53:08 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/1512354/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton")): Unable to click on object 'Object Repository/1512354/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3190,7 +3190,7 @@ Driver info: driver.version: RemoteWebDriver
 
 2020-06-05 18:53:08 - [MESSAGE][WARNING] - Cannot take screenshot
 
-2020-06-05 18:53:08 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1612893/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton'
+2020-06-05 18:53:08 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1512354/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3239,9 +3239,9 @@ Driver info: driver.version: RemoteWebDriver
 	at Script1591272185624.run(Script1591272185624.groovy:19)
 	... 13 more
 )]]></system-out>
-         <system-err><![CDATA[2020-06-05 18:53:08 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_Flagged_Post: Test Cases/1612893/TC_Flagged_Post FAILED.
+         <system-err><![CDATA[2020-06-05 18:53:08 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_Flagged_Post: Test Cases/1512354/TC_Flagged_Post FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/Flagged_Post/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_dash_channelHeaderFlagButton'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3284,8 +3284,8 @@ Driver info: driver.version: RemoteWebDriver
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_Login" time="17.82" classname="Test Cases/1612893/TC_Login" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:53:08 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_Login: Test Cases/1612893/TC_Login
+      <testcase name="Test Cases/1512354/TC_Login" time="17.82" classname="Test Cases/1512354/TC_Login" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:53:08 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_Login: Test Cases/1512354/TC_Login
 
 2020-06-05 18:53:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -3312,22 +3312,22 @@ Driver info: driver.version: RemoteWebDriver
 2020-06-05 18:53:26 - [MESSAGE][PASSED] - Object: 'Object Repository/1612585/01_Login/Page_Mattermost/span_Sign in' is clicked on]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_PinPost" time="15.366" classname="Test Cases/1612893/TC_PinPost" status="PASSED">
-         <system-out><![CDATA[2020-06-05 18:53:26 - [TEST_CASE][PASSED] - Test Cases/1612893/TC_PinPost: Test Cases/1612893/TC_PinPost
+      <testcase name="Test Cases/1512354/TC_PinPost" time="15.366" classname="Test Cases/1512354/TC_PinPost" status="PASSED">
+         <system-out><![CDATA[2020-06-05 18:53:26 - [TEST_CASE][PASSED] - Test Cases/1512354/TC_PinPost: Test Cases/1512354/TC_PinPost
 
-2020-06-05 18:53:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612893/PinPost/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Thanh set Channel name_channelHeader_632246")): Object: 'Object Repository/1612893/PinPost/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Thanh set Channel name_channelHeader_632246' is clicked on
+2020-06-05 18:53:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512354/PinPost/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Thanh set Channel name_channelHeader_632246")): Object: 'Object Repository/1512354/PinPost/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Thanh set Channel name_channelHeader_632246' is clicked on
 
-2020-06-05 18:53:37 - [MESSAGE][PASSED] - Object: 'Object Repository/1612893/PinPost/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Thanh set Channel name_channelHeader_632246' is clicked on
+2020-06-05 18:53:37 - [MESSAGE][PASSED] - Object: 'Object Repository/1512354/PinPost/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Thanh set Channel name_channelHeader_632246' is clicked on
 
 2020-06-05 18:53:37 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 18:53:42 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_ViewInfo" time="0.241" classname="Test Cases/1612893/TC_ViewInfo" status="FAILED">
-         <failure type="FAILED" message="Test Cases/1612893/TC_ViewInfo FAILED.
+      <testcase name="Test Cases/1512354/TC_ViewInfo" time="0.241" classname="Test Cases/1512354/TC_ViewInfo" status="FAILED">
+         <failure type="FAILED" message="Test Cases/1512354/TC_ViewInfo FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3370,9 +3370,9 @@ Driver info: driver.version: RemoteWebDriver
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more
 "/>
-         <system-out><![CDATA[2020-06-05 18:53:42 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_ViewInfo: Test Cases/1612893/TC_ViewInfo FAILED.
+         <system-out><![CDATA[2020-06-05 18:53:42 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_ViewInfo: Test Cases/1512354/TC_ViewInfo FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3416,7 +3416,7 @@ Driver info: driver.version: RemoteWebDriver
 	... 19 more
 
 
-2020-06-05 18:53:42 - [TEST_STEP][FAILED] - click(findTestObject("1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36")): Unable to click on object 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
+2020-06-05 18:53:42 - [TEST_STEP][FAILED] - click(findTestObject("1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36")): Unable to click on object 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3468,7 +3468,7 @@ Driver info: driver.version: RemoteWebDriver
 
 2020-06-05 18:53:42 - [MESSAGE][WARNING] - Cannot take screenshot
 
-2020-06-05 18:53:42 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
+2020-06-05 18:53:42 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3517,9 +3517,9 @@ Driver info: driver.version: RemoteWebDriver
 	at Script1591272532459.run(Script1591272532459.groovy:19)
 	... 13 more
 )]]></system-out>
-         <system-err><![CDATA[2020-06-05 18:53:42 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_ViewInfo: Test Cases/1612893/TC_ViewInfo FAILED.
+         <system-err><![CDATA[2020-06-05 18:53:42 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_ViewInfo: Test Cases/1512354/TC_ViewInfo FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/ViewInfo/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3562,10 +3562,10 @@ Driver info: driver.version: RemoteWebDriver
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612893/TC_ViewMember" time="0.281" classname="Test Cases/1612893/TC_ViewMember" status="FAILED">
-         <failure type="FAILED" message="Test Cases/1612893/TC_ViewMember FAILED.
+      <testcase name="Test Cases/1512354/TC_ViewMember" time="0.281" classname="Test Cases/1512354/TC_ViewMember" status="FAILED">
+         <failure type="FAILED" message="Test Cases/1512354/TC_ViewMember FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3608,9 +3608,9 @@ Driver info: driver.version: RemoteWebDriver
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more
 "/>
-         <system-out><![CDATA[2020-06-05 18:53:42 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_ViewMember: Test Cases/1612893/TC_ViewMember FAILED.
+         <system-out><![CDATA[2020-06-05 18:53:42 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_ViewMember: Test Cases/1512354/TC_ViewMember FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3654,7 +3654,7 @@ Driver info: driver.version: RemoteWebDriver
 	... 19 more
 
 
-2020-06-05 18:53:42 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36")): Unable to click on object 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
+2020-06-05 18:53:42 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36")): Unable to click on object 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3706,7 +3706,7 @@ Driver info: driver.version: RemoteWebDriver
 
 2020-06-05 18:53:42 - [MESSAGE][WARNING] - Cannot take screenshot
 
-2020-06-05 18:53:42 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
+2020-06-05 18:53:42 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3755,9 +3755,9 @@ Driver info: driver.version: RemoteWebDriver
 	at Script1591272786475.run(Script1591272786475.groovy:19)
 	... 13 more
 )]]></system-out>
-         <system-err><![CDATA[2020-06-05 18:53:42 - [TEST_CASE][FAILED] - Test Cases/1612893/TC_ViewMember: Test Cases/1612893/TC_ViewMember FAILED.
+         <system-err><![CDATA[2020-06-05 18:53:42 - [TEST_CASE][FAILED] - Test Cases/1512354/TC_ViewMember: Test Cases/1512354/TC_ViewMember FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/ViewMember/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/span_Thanh set Channel name_channelHeaderDr_8caf36'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3800,9 +3800,9 @@ Driver info: driver.version: RemoteWebDriver
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more]]></system-err>
       </testcase>
-      <system-out><![CDATA[2020-06-05 18:19:34 - [TEST_SUITE][FAILED] - Run all test case: Test Cases/1612893/TC_37_Set_a_header FAILED.
+      <system-out><![CDATA[2020-06-05 18:19:34 - [TEST_SUITE][FAILED] - Run all test case: Test Cases/1512354/TC_37_Set_a_header FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3824,7 +3824,7 @@ com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'O
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
@@ -3832,9 +3832,9 @@ Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more]]></system-out>
-      <system-err><![CDATA[2020-06-05 18:19:34 - [TEST_SUITE][FAILED] - Run all test case: Test Cases/1612893/TC_37_Set_a_header FAILED.
+      <system-err><![CDATA[2020-06-05 18:19:34 - [TEST_SUITE][FAILED] - Run all test case: Test Cases/1512354/TC_37_Set_a_header FAILED.
 Reason:
-com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header'
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
 	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)
@@ -3856,7 +3856,7 @@ com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'O
 	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)
 	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
 	at TempTestSuite1591355957104.run(TempTestSuite1591355957104.groovy:37)
-Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1612893/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/1512354/37_Set_a_header/Page_Thanh set Channel name - hcmus-cdnc-te_a699a0/button_Set a Header' located by 'By.xpath: //div[@id='channelIntro']/button[2]' not found
 	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1154)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
 	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
