@@ -31916,12 +31916,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/21_CommentChannel</message>
+  <message>Start Test Case : Test Cases/1512194/21_CommentChannel</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/21_CommentChannel</property>
+  <property name="name">Test Cases/1512194/21_CommentChannel</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/21_CommentChannel</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\21_CommentChannel.tc</property>
+  <property name="id">Test Cases/1512194/21_CommentChannel</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\21_CommentChannel.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -32096,7 +32096,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">23</property>
   <property name="stepIndex">3</property>
@@ -32109,7 +32109,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;hcmus-cdnc&amp;apos; is set on object &amp;apos;Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_703ef5&amp;apos;</message>
+  <message>Text &amp;apos;hcmus-cdnc&amp;apos; is set on object &amp;apos;Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_703ef5&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32120,7 +32120,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32131,7 +32131,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">26</property>
   <property name="stepIndex">4</property>
@@ -32144,7 +32144,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text ****** has been set on object &amp;apos;Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32155,7 +32155,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32166,7 +32166,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendKeys(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), Keys.chord(ENTER))</message>
+  <message>Start action : sendKeys(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), Keys.chord(ENTER))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">29</property>
   <property name="stepIndex">5</property>
@@ -32179,7 +32179,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Keys &amp;apos;ENTER + &amp;apos; sent to object: &amp;apos;Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
+  <message>Keys &amp;apos;ENTER + &amp;apos; sent to object: &amp;apos;Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32190,7 +32190,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendKeys(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), Keys.chord(ENTER))</message>
+  <message>End action : sendKeys(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), Keys.chord(ENTER))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32238,7 +32238,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">33</property>
   <property name="stepIndex">1</property>
@@ -32251,7 +32251,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;Hi, I&amp;apos;m newbie&amp;apos; is set on object &amp;apos;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
+  <message>Text &amp;apos;Hi, I&amp;apos;m newbie&amp;apos; is set on object &amp;apos;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32262,7 +32262,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -32273,7 +32273,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendKeys(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
+  <message>Start action : sendKeys(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">35</property>
   <property name="stepIndex">2</property>
@@ -32286,7 +32286,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Keys &amp;apos;ENTER + &amp;apos; sent to object: &amp;apos;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
+  <message>Keys &amp;apos;ENTER + &amp;apos; sent to object: &amp;apos;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32297,7 +32297,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendKeys(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
+  <message>End action : sendKeys(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -32308,7 +32308,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">33</property>
   <property name="stepIndex">1</property>
@@ -32321,7 +32321,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;Thanks&amp;apos; is set on object &amp;apos;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
+  <message>Text &amp;apos;Thanks&amp;apos; is set on object &amp;apos;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32332,7 +32332,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -32343,7 +32343,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendKeys(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
+  <message>Start action : sendKeys(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">35</property>
   <property name="stepIndex">2</property>
@@ -32356,7 +32356,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Keys &amp;apos;ENTER + &amp;apos; sent to object: &amp;apos;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
+  <message>Keys &amp;apos;ENTER + &amp;apos; sent to object: &amp;apos;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32367,7 +32367,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendKeys(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
+  <message>End action : sendKeys(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -32378,7 +32378,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">33</property>
   <property name="stepIndex">1</property>
@@ -32391,7 +32391,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;Good morning!&amp;apos; is set on object &amp;apos;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
+  <message>Text &amp;apos;Good morning!&amp;apos; is set on object &amp;apos;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32402,7 +32402,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -32413,7 +32413,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendKeys(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
+  <message>Start action : sendKeys(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">35</property>
   <property name="stepIndex">2</property>
@@ -32426,7 +32426,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Keys &amp;apos;ENTER + &amp;apos; sent to object: &amp;apos;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
+  <message>Keys &amp;apos;ENTER + &amp;apos; sent to object: &amp;apos;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32437,7 +32437,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendKeys(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
+  <message>End action : sendKeys(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -32448,7 +32448,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">33</property>
   <property name="stepIndex">1</property>
@@ -32461,7 +32461,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;Shhh!&amp;apos; is set on object &amp;apos;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
+  <message>Text &amp;apos;Shhh!&amp;apos; is set on object &amp;apos;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32472,7 +32472,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), message)</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -32483,7 +32483,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendKeys(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
+  <message>Start action : sendKeys(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">35</property>
   <property name="stepIndex">2</property>
@@ -32496,7 +32496,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Keys &amp;apos;ENTER + &amp;apos; sent to object: &amp;apos;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
+  <message>Keys &amp;apos;ENTER + &amp;apos; sent to object: &amp;apos;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32507,7 +32507,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendKeys(findTestObject(\&amp;quot;Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
+  <message>End action : sendKeys(findTestObject(\&amp;quot;Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie\&amp;quot;), Keys.chord(ENTER))</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -32564,7 +32564,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/21_CommentChannel</message>
+  <message>Test Cases/1512194/21_CommentChannel</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32575,7 +32575,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/21_CommentChannel</message>
+  <message>End Test Case : Test Cases/1512194/21_CommentChannel</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -32586,12 +32586,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/22_DirectMessage</message>
+  <message>Start Test Case : Test Cases/1512194/22_DirectMessage</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/22_DirectMessage</property>
+  <property name="name">Test Cases/1512194/22_DirectMessage</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/22_DirectMessage</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\22_DirectMessage.tc</property>
+  <property name="id">Test Cases/1512194/22_DirectMessage</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\22_DirectMessage.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -32755,7 +32755,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">23</property>
   <property name="stepIndex">3</property>
@@ -32768,7 +32768,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;hcmus-cdnc&amp;apos; is set on object &amp;apos;Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_703ef5&amp;apos;</message>
+  <message>Text &amp;apos;hcmus-cdnc&amp;apos; is set on object &amp;apos;Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_703ef5&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32779,7 +32779,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32790,7 +32790,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">26</property>
   <property name="stepIndex">4</property>
@@ -32803,7 +32803,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text ****** has been set on object &amp;apos;Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32814,7 +32814,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32825,7 +32825,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendKeys(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), Keys.chord(ENTER))</message>
+  <message>Start action : sendKeys(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), Keys.chord(ENTER))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">29</property>
   <property name="stepIndex">5</property>
@@ -32838,7 +32838,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Keys &amp;apos;ENTER + &amp;apos; sent to object: &amp;apos;Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
+  <message>Keys &amp;apos;ENTER + &amp;apos; sent to object: &amp;apos;Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32849,7 +32849,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendKeys(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), Keys.chord(ENTER))</message>
+  <message>End action : sendKeys(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), Keys.chord(ENTER))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32860,7 +32860,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_\&amp;quot;))</message>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">32</property>
   <property name="stepIndex">6</property>
@@ -32873,7 +32873,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_&amp;apos; is clicked on</message>
+  <message>Object: &amp;apos;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_&amp;apos; is clicked on</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32884,7 +32884,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_\&amp;quot;))</message>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32932,7 +32932,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input\&amp;quot;), key)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input\&amp;quot;), key)</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">36</property>
   <property name="stepIndex">1</property>
@@ -32945,7 +32945,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;me&amp;apos; is set on object &amp;apos;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input&amp;apos;</message>
+  <message>Text &amp;apos;me&amp;apos; is set on object &amp;apos;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -32956,7 +32956,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input\&amp;quot;), key)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input\&amp;quot;), key)</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -32980,7 +32980,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)\&amp;quot;))</message>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)\&amp;quot;))</message>
   <nestedLevel>3</nestedLevel>
   <property name="startLine">39</property>
   <property name="stepIndex">1</property>
@@ -32993,7 +32993,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)&amp;apos; is clicked on</message>
+  <message>Object: &amp;apos;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)&amp;apos; is clicked on</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33004,7 +33004,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)\&amp;quot;))</message>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)\&amp;quot;))</message>
   <nestedLevel>3</nestedLevel>
 </record>
 <record>
@@ -33026,7 +33026,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input\&amp;quot;), key)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input\&amp;quot;), key)</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">36</property>
   <property name="stepIndex">1</property>
@@ -33039,7 +33039,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;s&amp;apos; is set on object &amp;apos;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input&amp;apos;</message>
+  <message>Text &amp;apos;s&amp;apos; is set on object &amp;apos;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33050,7 +33050,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input\&amp;quot;), key)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input\&amp;quot;), key)</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -33096,7 +33096,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_aaronpeterson - Aaron Petersonuser-7sam_dd566b\&amp;quot;))</message>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_aaronpeterson - Aaron Petersonuser-7sam_dd566b\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">43</property>
   <property name="stepIndex">9</property>
@@ -33109,7 +33109,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_aaronpeterson - Aaron Petersonuser-7sam_dd566b&amp;apos; is clicked on</message>
+  <message>Object: &amp;apos;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_aaronpeterson - Aaron Petersonuser-7sam_dd566b&amp;apos; is clicked on</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33120,7 +33120,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_aaronpeterson - Aaron Petersonuser-7sam_dd566b\&amp;quot;))</message>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_aaronpeterson - Aaron Petersonuser-7sam_dd566b\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33131,7 +33131,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_user-36samplemattermostcom_more-modal___2272d4\&amp;quot;))</message>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_user-36samplemattermostcom_more-modal___2272d4\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">45</property>
   <property name="stepIndex">10</property>
@@ -33144,7 +33144,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_user-36samplemattermostcom_more-modal___2272d4&amp;apos; is clicked on</message>
+  <message>Object: &amp;apos;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_user-36samplemattermostcom_more-modal___2272d4&amp;apos; is clicked on</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33155,7 +33155,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_user-36samplemattermostcom_more-modal___2272d4\&amp;quot;))</message>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_user-36samplemattermostcom_more-modal___2272d4\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33166,7 +33166,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/button_Go\&amp;quot;))</message>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/button_Go\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">47</property>
   <property name="stepIndex">11</property>
@@ -33179,7 +33179,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/button_Go&amp;apos; is clicked on</message>
+  <message>Object: &amp;apos;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/button_Go&amp;apos; is clicked on</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33190,7 +33190,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/button_Go\&amp;quot;))</message>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/button_Go\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33236,7 +33236,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/22_DirectMessage</message>
+  <message>Test Cases/1512194/22_DirectMessage</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33247,7 +33247,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/22_DirectMessage</message>
+  <message>End Test Case : Test Cases/1512194/22_DirectMessage</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -33258,12 +33258,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/23_Set_Domain_Email_SignUp</message>
+  <message>Start Test Case : Test Cases/1512194/23_Set_Domain_Email_SignUp</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/23_Set_Domain_Email_SignUp</property>
+  <property name="name">Test Cases/1512194/23_Set_Domain_Email_SignUp</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/23_Set_Domain_Email_SignUp</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\23_Set_Domain_Email_SignUp.tc</property>
+  <property name="id">Test Cases/1512194/23_Set_Domain_Email_SignUp</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\23_Set_Domain_Email_SignUp.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -33427,7 +33427,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">23</property>
   <property name="stepIndex">3</property>
@@ -33440,7 +33440,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;hcmus-cdnc&amp;apos; is set on object &amp;apos;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_703ef5&amp;apos;</message>
+  <message>Text &amp;apos;hcmus-cdnc&amp;apos; is set on object &amp;apos;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_703ef5&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33451,7 +33451,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33462,7 +33462,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">26</property>
   <property name="stepIndex">4</property>
@@ -33475,7 +33475,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text ****** has been set on object &amp;apos;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33486,7 +33486,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33497,7 +33497,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/span_Sign in\&amp;quot;))</message>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/span_Sign in\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">29</property>
   <property name="stepIndex">5</property>
@@ -33510,7 +33510,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/span_Sign in&amp;apos; is clicked on</message>
+  <message>Object: &amp;apos;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/span_Sign in&amp;apos; is clicked on</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33521,7 +33521,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/span_Sign in\&amp;quot;))</message>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/span_Sign in\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33532,7 +33532,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter\&amp;quot;), \&amp;quot;sign\&amp;quot;)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter\&amp;quot;), \&amp;quot;sign\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">31</property>
   <property name="stepIndex">6</property>
@@ -33545,7 +33545,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;sign&amp;apos; is set on object &amp;apos;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter&amp;apos;</message>
+  <message>Text &amp;apos;sign&amp;apos; is set on object &amp;apos;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33556,7 +33556,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter\&amp;quot;), \&amp;quot;sign\&amp;quot;)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter\&amp;quot;), \&amp;quot;sign\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33567,7 +33567,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/mark_Signup\&amp;quot;))</message>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/mark_Signup\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">34</property>
   <property name="stepIndex">7</property>
@@ -33580,7 +33580,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/mark_Signup&amp;apos; is clicked on</message>
+  <message>Object: &amp;apos;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/mark_Signup&amp;apos; is clicked on</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33591,7 +33591,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/mark_Signup\&amp;quot;))</message>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/mark_Signup\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33687,7 +33687,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">40</property>
   <property name="stepIndex">2</property>
@@ -33700,7 +33700,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;gmail.com &amp;apos; is set on object &amp;apos;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344&amp;apos;</message>
+  <message>Text &amp;apos;gmail.com &amp;apos; is set on object &amp;apos;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33711,7 +33711,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -33746,7 +33746,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">40</property>
   <property name="stepIndex">2</property>
@@ -33759,7 +33759,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;gmail.com outlook.com &amp;apos; is set on object &amp;apos;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344&amp;apos;</message>
+  <message>Text &amp;apos;gmail.com outlook.com &amp;apos; is set on object &amp;apos;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33770,7 +33770,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -33805,7 +33805,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">40</property>
   <property name="stepIndex">2</property>
@@ -33818,7 +33818,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;gmail.com outlook.com microsoft.com &amp;apos; is set on object &amp;apos;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344&amp;apos;</message>
+  <message>Text &amp;apos;gmail.com outlook.com microsoft.com &amp;apos; is set on object &amp;apos;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33829,7 +33829,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -33864,7 +33864,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">40</property>
   <property name="stepIndex">2</property>
@@ -33877,7 +33877,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;gmail.com outlook.com microsoft.com yahoo.com&amp;apos; is set on object &amp;apos;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344&amp;apos;</message>
+  <message>Text &amp;apos;gmail.com outlook.com microsoft.com yahoo.com&amp;apos; is set on object &amp;apos;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33888,7 +33888,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344\&amp;quot;), tmp)</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -33910,7 +33910,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/span_Save\&amp;quot;))</message>
+  <message>Start action : click(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/span_Save\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">44</property>
   <property name="stepIndex">11</property>
@@ -33923,7 +33923,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/span_Save&amp;apos; is clicked on</message>
+  <message>Object: &amp;apos;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/span_Save&amp;apos; is clicked on</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33934,7 +33934,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/span_Save\&amp;quot;))</message>
+  <message>End action : click(findTestObject(\&amp;quot;Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/span_Save\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33980,7 +33980,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/23_Set_Domain_Email_SignUp</message>
+  <message>Test Cases/1512194/23_Set_Domain_Email_SignUp</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -33991,7 +33991,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/23_Set_Domain_Email_SignUp</message>
+  <message>End Test Case : Test Cases/1512194/23_Set_Domain_Email_SignUp</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -34002,12 +34002,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/24_Setting_Searching</message>
+  <message>Start Test Case : Test Cases/1512194/24_Setting_Searching</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/24_Setting_Searching</property>
+  <property name="name">Test Cases/1512194/24_Setting_Searching</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/24_Setting_Searching</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\24_Setting_Searching.tc</property>
+  <property name="id">Test Cases/1512194/24_Setting_Searching</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\24_Setting_Searching.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -34171,7 +34171,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;1612567/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;1512194/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">23</property>
   <property name="stepIndex">3</property>
@@ -34184,7 +34184,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;hcmus-cdnc&amp;apos; is set on object &amp;apos;Object Repository/1612567/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_703ef5&amp;apos;</message>
+  <message>Text &amp;apos;hcmus-cdnc&amp;apos; is set on object &amp;apos;Object Repository/1512194/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_703ef5&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34195,7 +34195,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;1612567/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;1512194/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34206,7 +34206,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;1612567/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;1512194/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">26</property>
   <property name="stepIndex">4</property>
@@ -34219,7 +34219,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text ****** has been set on object &amp;apos;Object Repository/1612567/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/1512194/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34230,7 +34230,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setEncryptedText(findTestObject(\&amp;quot;1612567/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;1512194/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34241,7 +34241,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;1612567/24_Setting_Searching/Page_Mattermost/span_Sign in\&amp;quot;))</message>
+  <message>Start action : click(findTestObject(\&amp;quot;1512194/24_Setting_Searching/Page_Mattermost/span_Sign in\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">29</property>
   <property name="stepIndex">5</property>
@@ -34254,7 +34254,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/1612567/24_Setting_Searching/Page_Mattermost/span_Sign in&amp;apos; is clicked on</message>
+  <message>Object: &amp;apos;Object Repository/1512194/24_Setting_Searching/Page_Mattermost/span_Sign in&amp;apos; is clicked on</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34265,7 +34265,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;1612567/24_Setting_Searching/Page_Mattermost/span_Sign in\&amp;quot;))</message>
+  <message>End action : click(findTestObject(\&amp;quot;1512194/24_Setting_Searching/Page_Mattermost/span_Sign in\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34313,7 +34313,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter\&amp;quot;), key)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter\&amp;quot;), key)</message>
   <nestedLevel>2</nestedLevel>
   <property name="startLine">35</property>
   <property name="stepIndex">1</property>
@@ -34340,7 +34340,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Unable to set text &amp;apos;password&amp;apos; of object &amp;apos;Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter&amp;apos; (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text &amp;apos;password&amp;apos; of object &amp;apos;Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter&amp;apos;\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:976)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)\r\n\tat 24_Setting_Searching.run(24_Setting_Searching:35)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1591347278292.run(TempTestSuite1591347278292.groovy:37)\r\nCaused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=83.0.4103.97)\nBuild info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;e82be7d358&amp;apos;, time: &amp;apos;2018-11-14T08:25:53&amp;apos;\nSystem info: host: &amp;apos;DESKTOP-SGC4F2H&amp;apos;, ip: &amp;apos;172.25.32.1&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_181&amp;apos;\nDriver info: com.kms.katalon.selenium.driver.CChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\Thanh\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58027}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 200b21b993c804d1fea2591d32391b5d\n*** Element info: {Using=xpath, value=//input[@id=&amp;apos;adminSidebarFilter&amp;apos;]}\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)\r\n\tat org.openqa.selenium.By$ByXPath.findElements(By.java:348)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)\r\n\tat com.sun.proxy.$Proxy8.findElements(Unknown Source)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:789)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1150)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:55)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:976)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)\r\n\tat Script1591321533420.run(Script1591321533420.groovy:35)\r\n\t... 13 more\r\n)</message>
+  <message>Unable to set text &amp;apos;password&amp;apos; of object &amp;apos;Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter&amp;apos; (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to set text &amp;apos;password&amp;apos; of object &amp;apos;Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter&amp;apos;\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:976)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)\r\n\tat 24_Setting_Searching.run(24_Setting_Searching:35)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1591347278292.run(TempTestSuite1591347278292.groovy:37)\r\nCaused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=83.0.4103.97)\nBuild info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;e82be7d358&amp;apos;, time: &amp;apos;2018-11-14T08:25:53&amp;apos;\nSystem info: host: &amp;apos;DESKTOP-SGC4F2H&amp;apos;, ip: &amp;apos;172.25.32.1&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_181&amp;apos;\nDriver info: com.kms.katalon.selenium.driver.CChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\Thanh\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58027}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 200b21b993c804d1fea2591d32391b5d\n*** Element info: {Using=xpath, value=//input[@id=&amp;apos;adminSidebarFilter&amp;apos;]}\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)\r\n\tat org.openqa.selenium.By$ByXPath.findElements(By.java:348)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)\r\n\tat com.sun.proxy.$Proxy8.findElements(Unknown Source)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:789)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1150)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:55)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:976)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)\r\n\tat Script1591321533420.run(Script1591321533420.groovy:35)\r\n\t... 13 more\r\n)</message>
   <nestedLevel>1</nestedLevel>
   <property name="failed.exception.class">org.openqa.selenium.NoSuchWindowException</property>
   <property name="failed.exception.stacktrace">org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=83.0.4103.97)\nBuild info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:53&apos;\nSystem info: host: &apos;DESKTOP-SGC4F2H&apos;, ip: &apos;172.25.32.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;\nDriver info: com.kms.katalon.selenium.driver.CChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\Thanh\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58027}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 200b21b993c804d1fea2591d32391b5d\n*** Element info: {Using=xpath, value=//input[@id=&apos;adminSidebarFilter&apos;]}\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)\r\n\tat org.openqa.selenium.By$ByXPath.findElements(By.java:348)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)\r\n\tat com.sun.proxy.$Proxy8.findElements(Unknown Source)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:789)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1150)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:55)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:976)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)\r\n\tat 24_Setting_Searching.run(24_Setting_Searching:35)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1591347278292.run(TempTestSuite1591347278292.groovy:37)\r\n</property>
@@ -34354,7 +34354,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter\&amp;quot;), key)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter\&amp;quot;), key)</message>
   <nestedLevel>2</nestedLevel>
 </record>
 <record>
@@ -34376,9 +34376,9 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/24_Setting_Searching FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to set text &amp;apos;password&amp;apos; of object &amp;apos;Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter&amp;apos;\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:976)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)\r\n\tat 24_Setting_Searching.run(24_Setting_Searching:35)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1591347278292.run(TempTestSuite1591347278292.groovy:37)\r\nCaused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=83.0.4103.97)\nBuild info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;e82be7d358&amp;apos;, time: &amp;apos;2018-11-14T08:25:53&amp;apos;\nSystem info: host: &amp;apos;DESKTOP-SGC4F2H&amp;apos;, ip: &amp;apos;172.25.32.1&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_181&amp;apos;\nDriver info: com.kms.katalon.selenium.driver.CChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\Thanh\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58027}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 200b21b993c804d1fea2591d32391b5d\n*** Element info: {Using=xpath, value=//input[@id=&amp;apos;adminSidebarFilter&amp;apos;]}\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)\r\n\tat org.openqa.selenium.By$ByXPath.findElements(By.java:348)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)\r\n\tat com.sun.proxy.$Proxy8.findElements(Unknown Source)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:789)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1150)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:55)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)\r\n\t... 19 more\r\n</message>
+  <message>Test Cases/1512194/24_Setting_Searching FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to set text &amp;apos;password&amp;apos; of object &amp;apos;Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter&amp;apos;\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.setText(SetTextKeyword.groovy:66)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword.execute(SetTextKeyword.groovy:37)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.setText(WebUiBuiltInKeywords.groovy:976)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$setText$1.call(Unknown Source)\r\n\tat 24_Setting_Searching.run(24_Setting_Searching:35)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1591347278292.run(TempTestSuite1591347278292.groovy:37)\r\nCaused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=83.0.4103.97)\nBuild info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;e82be7d358&amp;apos;, time: &amp;apos;2018-11-14T08:25:53&amp;apos;\nSystem info: host: &amp;apos;DESKTOP-SGC4F2H&amp;apos;, ip: &amp;apos;172.25.32.1&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_181&amp;apos;\nDriver info: com.kms.katalon.selenium.driver.CChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\Thanh\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58027}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 200b21b993c804d1fea2591d32391b5d\n*** Element info: {Using=xpath, value=//input[@id=&amp;apos;adminSidebarFilter&amp;apos;]}\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)\r\n\tat org.openqa.selenium.By$ByXPath.findElements(By.java:348)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)\r\n\tat com.sun.proxy.$Proxy8.findElements(Unknown Source)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:789)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1150)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.doCall(SetTextKeyword.groovy:55)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.SetTextKeyword$_setText_closure1.call(SetTextKeyword.groovy)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)\r\n\t... 19 more\r\n</message>
   <exception>
-    <message>com.kms.katalon.core.exception.StepFailedException: Unable to set text 'password' of object 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'</message>
+    <message>com.kms.katalon.core.exception.StepFailedException: Unable to set text 'password' of object 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'</message>
     <frame>
       <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
       <method>stepFailed</method>
@@ -34496,7 +34496,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/24_Setting_Searching</message>
+  <message>End Test Case : Test Cases/1512194/24_Setting_Searching</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -34507,12 +34507,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/25_CORS_Setting</message>
+  <message>Start Test Case : Test Cases/1512194/25_CORS_Setting</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/25_CORS_Setting</property>
+  <property name="name">Test Cases/1512194/25_CORS_Setting</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/25_CORS_Setting</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\25_CORS_Setting.tc</property>
+  <property name="id">Test Cases/1512194/25_CORS_Setting</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\25_CORS_Setting.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -34687,7 +34687,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;1612567/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;1512194/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">23</property>
   <property name="stepIndex">3</property>
@@ -34700,7 +34700,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;hcmus-cdnc&amp;apos; is set on object &amp;apos;Object Repository/1612567/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_703ef5&amp;apos;</message>
+  <message>Text &amp;apos;hcmus-cdnc&amp;apos; is set on object &amp;apos;Object Repository/1512194/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_703ef5&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34711,7 +34711,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;1612567/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;1512194/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_703ef5\&amp;quot;), \&amp;quot;hcmus-cdnc\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34722,7 +34722,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;1612567/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
+  <message>Start action : setEncryptedText(findTestObject(\&amp;quot;1512194/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">26</property>
   <property name="stepIndex">4</property>
@@ -34735,7 +34735,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text ****** has been set on object &amp;apos;Object Repository/1612567/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
+  <message>Text ****** has been set on object &amp;apos;Object Repository/1512194/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_2f2733&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34746,7 +34746,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setEncryptedText(findTestObject(\&amp;quot;1612567/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
+  <message>End action : setEncryptedText(findTestObject(\&amp;quot;1512194/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_2f2733\&amp;quot;), \&amp;quot;aeHFOx8jV/A=\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34757,7 +34757,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;1612567/25_CORS_Setting/Page_Mattermost/button_Sign in\&amp;quot;))</message>
+  <message>Start action : click(findTestObject(\&amp;quot;1512194/25_CORS_Setting/Page_Mattermost/button_Sign in\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">29</property>
   <property name="stepIndex">5</property>
@@ -34770,7 +34770,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Object: &amp;apos;Object Repository/1612567/25_CORS_Setting/Page_Mattermost/button_Sign in&amp;apos; is clicked on</message>
+  <message>Object: &amp;apos;Object Repository/1512194/25_CORS_Setting/Page_Mattermost/button_Sign in&amp;apos; is clicked on</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34781,7 +34781,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;1612567/25_CORS_Setting/Page_Mattermost/button_Sign in\&amp;quot;))</message>
+  <message>End action : click(findTestObject(\&amp;quot;1512194/25_CORS_Setting/Page_Mattermost/button_Sign in\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34792,7 +34792,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : setText(findTestObject(\&amp;quot;1612567/25_CORS_Setting/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter\&amp;quot;), \&amp;quot;cor\&amp;quot;)</message>
+  <message>Start action : setText(findTestObject(\&amp;quot;1512194/25_CORS_Setting/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter\&amp;quot;), \&amp;quot;cor\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">31</property>
   <property name="stepIndex">6</property>
@@ -34805,7 +34805,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Text &amp;apos;cor&amp;apos; is set on object &amp;apos;Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter&amp;apos;</message>
+  <message>Text &amp;apos;cor&amp;apos; is set on object &amp;apos;Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter&amp;apos;</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34816,7 +34816,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : setText(findTestObject(\&amp;quot;1612567/25_CORS_Setting/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter\&amp;quot;), \&amp;quot;cor\&amp;quot;)</message>
+  <message>End action : setText(findTestObject(\&amp;quot;1512194/25_CORS_Setting/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter\&amp;quot;), \&amp;quot;cor\&amp;quot;)</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34827,7 +34827,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : click(findTestObject(\&amp;quot;1612567/25_CORS_Setting/Page_System Console - Mattermost/a_CORS\&amp;quot;))</message>
+  <message>Start action : click(findTestObject(\&amp;quot;1512194/25_CORS_Setting/Page_System Console - Mattermost/a_CORS\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">34</property>
   <property name="stepIndex">7</property>
@@ -34854,7 +34854,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Unable to click on object &amp;apos;Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/a_CORS&amp;apos; (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object &amp;apos;Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/a_CORS&amp;apos;\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)\r\n\tat 25_CORS_Setting.run(25_CORS_Setting:34)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1591347278292.run(TempTestSuite1591347278292.groovy:37)\r\nCaused by: org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome=83.0.4103.97)\nBuild info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;e82be7d358&amp;apos;, time: &amp;apos;2018-11-14T08:25:53&amp;apos;\nSystem info: host: &amp;apos;DESKTOP-SGC4F2H&amp;apos;, ip: &amp;apos;172.25.32.1&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_181&amp;apos;\nDriver info: com.kms.katalon.selenium.driver.CChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\Thanh\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9a308a4b8b98f7421138ba1b2a94415d\n*** Element info: {Using=xpath, value=//a[@id=&amp;apos;integrations/cors&amp;apos;]}\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)\r\n\tat org.openqa.selenium.By$ByXPath.findElements(By.java:348)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)\r\n\tat com.sun.proxy.$Proxy8.findElements(Unknown Source)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:789)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1150)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)\r\n\tat Script1591321863074.run(Script1591321863074.groovy:34)\r\n\t... 13 more\r\n)</message>
+  <message>Unable to click on object &amp;apos;Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/a_CORS&amp;apos; (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object &amp;apos;Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/a_CORS&amp;apos;\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)\r\n\tat 25_CORS_Setting.run(25_CORS_Setting:34)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1591347278292.run(TempTestSuite1591347278292.groovy:37)\r\nCaused by: org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome=83.0.4103.97)\nBuild info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;e82be7d358&amp;apos;, time: &amp;apos;2018-11-14T08:25:53&amp;apos;\nSystem info: host: &amp;apos;DESKTOP-SGC4F2H&amp;apos;, ip: &amp;apos;172.25.32.1&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_181&amp;apos;\nDriver info: com.kms.katalon.selenium.driver.CChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\Thanh\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9a308a4b8b98f7421138ba1b2a94415d\n*** Element info: {Using=xpath, value=//a[@id=&amp;apos;integrations/cors&amp;apos;]}\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)\r\n\tat org.openqa.selenium.By$ByXPath.findElements(By.java:348)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)\r\n\tat com.sun.proxy.$Proxy8.findElements(Unknown Source)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:789)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1150)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)\r\n\tat Script1591321863074.run(Script1591321863074.groovy:34)\r\n\t... 13 more\r\n)</message>
   <nestedLevel>1</nestedLevel>
   <property name="failed.exception.class">org.openqa.selenium.WebDriverException</property>
   <property name="failed.exception.stacktrace">org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome=83.0.4103.97)\nBuild info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:53&apos;\nSystem info: host: &apos;DESKTOP-SGC4F2H&apos;, ip: &apos;172.25.32.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_181&apos;\nDriver info: com.kms.katalon.selenium.driver.CChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\Thanh\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9a308a4b8b98f7421138ba1b2a94415d\n*** Element info: {Using=xpath, value=//a[@id=&apos;integrations/cors&apos;]}\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)\r\n\tat org.openqa.selenium.By$ByXPath.findElements(By.java:348)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)\r\n\tat com.sun.proxy.$Proxy8.findElements(Unknown Source)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:789)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1150)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)\r\n\tat 25_CORS_Setting.run(25_CORS_Setting:34)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1591347278292.run(TempTestSuite1591347278292.groovy:37)\r\n</property>
@@ -34868,7 +34868,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : click(findTestObject(\&amp;quot;1612567/25_CORS_Setting/Page_System Console - Mattermost/a_CORS\&amp;quot;))</message>
+  <message>End action : click(findTestObject(\&amp;quot;1512194/25_CORS_Setting/Page_System Console - Mattermost/a_CORS\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -34879,9 +34879,9 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/25_CORS_Setting FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to click on object &amp;apos;Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/a_CORS&amp;apos;\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)\r\n\tat 25_CORS_Setting.run(25_CORS_Setting:34)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1591347278292.run(TempTestSuite1591347278292.groovy:37)\r\nCaused by: org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome=83.0.4103.97)\nBuild info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;e82be7d358&amp;apos;, time: &amp;apos;2018-11-14T08:25:53&amp;apos;\nSystem info: host: &amp;apos;DESKTOP-SGC4F2H&amp;apos;, ip: &amp;apos;172.25.32.1&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_181&amp;apos;\nDriver info: com.kms.katalon.selenium.driver.CChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\Thanh\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9a308a4b8b98f7421138ba1b2a94415d\n*** Element info: {Using=xpath, value=//a[@id=&amp;apos;integrations/cors&amp;apos;]}\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)\r\n\tat org.openqa.selenium.By$ByXPath.findElements(By.java:348)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)\r\n\tat com.sun.proxy.$Proxy8.findElements(Unknown Source)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:789)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1150)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)\r\n\t... 19 more\r\n</message>
+  <message>Test Cases/1512194/25_CORS_Setting FAILED.\nReason:\ncom.kms.katalon.core.exception.StepFailedException: Unable to click on object &amp;apos;Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/a_CORS&amp;apos;\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:76)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:43)\r\n\tat com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:72)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:616)\r\n\tat com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$3.call(Unknown Source)\r\n\tat 25_CORS_Setting.run(25_CORS_Setting:34)\r\n\tat com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)\r\n\tat com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:337)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:328)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:307)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:299)\r\n\tat com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:233)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestCaseMainPhase(TestSuiteExecutor.java:169)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:142)\r\n\tat com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:91)\r\n\tat com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:157)\r\n\tat com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)\r\n\tat TempTestSuite1591347278292.run(TempTestSuite1591347278292.groovy:37)\r\nCaused by: org.openqa.selenium.WebDriverException: chrome not reachable\n  (Session info: chrome=83.0.4103.97)\nBuild info: version: &amp;apos;3.141.59&amp;apos;, revision: &amp;apos;e82be7d358&amp;apos;, time: &amp;apos;2018-11-14T08:25:53&amp;apos;\nSystem info: host: &amp;apos;DESKTOP-SGC4F2H&amp;apos;, ip: &amp;apos;172.25.32.1&amp;apos;, os.name: &amp;apos;Windows 10&amp;apos;, os.arch: &amp;apos;amd64&amp;apos;, os.version: &amp;apos;10.0&amp;apos;, java.version: &amp;apos;1.8.0_181&amp;apos;\nDriver info: com.kms.katalon.selenium.driver.CChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.97, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\Thanh\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:58056}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9a308a4b8b98f7421138ba1b2a94415d\n*** Element info: {Using=xpath, value=//a[@id=&amp;apos;integrations/cors&amp;apos;]}\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:432)\r\n\tat org.openqa.selenium.By$ByXPath.findElements(By.java:348)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:311)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)\r\n\tat com.sun.proxy.$Proxy8.findElements(Unknown Source)\r\n\tat org.openqa.selenium.support.events.EventFiringWebDriver.findElements(EventFiringWebDriver.java:182)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElements(WebUiCommonHelper.java:789)\r\n\tat com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1150)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)\r\n\tat com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)\r\n\tat com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)\r\n\t... 19 more\r\n</message>
   <exception>
-    <message>com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/a_CORS'</message>
+    <message>com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/a_CORS'</message>
     <frame>
       <class>com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain</class>
       <method>stepFailed</method>
@@ -34999,7 +34999,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/25_CORS_Setting</message>
+  <message>End Test Case : Test Cases/1512194/25_CORS_Setting</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -35010,12 +35010,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/26_Call_API_Login</message>
+  <message>Start Test Case : Test Cases/1512194/26_Call_API_Login</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/26_Call_API_Login</property>
+  <property name="name">Test Cases/1512194/26_Call_API_Login</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/26_Call_API_Login</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\26_Call_API_Login.tc</property>
+  <property name="id">Test Cases/1512194/26_Call_API_Login</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\26_Call_API_Login.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -35027,7 +35027,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/26_Call_API_Login\&amp;quot;))</message>
+  <message>Start action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/26_Call_API_Login\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">18</property>
   <property name="stepIndex">1</property>
@@ -35063,7 +35063,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/26_Call_API_Login\&amp;quot;))</message>
+  <message>End action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/26_Call_API_Login\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35074,7 +35074,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/26_Call_API_Login</message>
+  <message>Test Cases/1512194/26_Call_API_Login</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35085,7 +35085,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/26_Call_API_Login</message>
+  <message>End Test Case : Test Cases/1512194/26_Call_API_Login</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -35096,12 +35096,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/27_Call_API_Channels_Info</message>
+  <message>Start Test Case : Test Cases/1512194/27_Call_API_Channels_Info</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/27_Call_API_Channels_Info</property>
+  <property name="name">Test Cases/1512194/27_Call_API_Channels_Info</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/27_Call_API_Channels_Info</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\27_Call_API_Channels_Info.tc</property>
+  <property name="id">Test Cases/1512194/27_Call_API_Channels_Info</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\27_Call_API_Channels_Info.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -35113,7 +35113,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/27_Call_API_Channels_Info\&amp;quot;))</message>
+  <message>Start action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/27_Call_API_Channels_Info\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">18</property>
   <property name="stepIndex">1</property>
@@ -35149,7 +35149,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/27_Call_API_Channels_Info\&amp;quot;))</message>
+  <message>End action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/27_Call_API_Channels_Info\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35160,7 +35160,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/27_Call_API_Channels_Info</message>
+  <message>Test Cases/1512194/27_Call_API_Channels_Info</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35171,7 +35171,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/27_Call_API_Channels_Info</message>
+  <message>End Test Case : Test Cases/1512194/27_Call_API_Channels_Info</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -35182,12 +35182,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/28_Call_API_ChangeName</message>
+  <message>Start Test Case : Test Cases/1512194/28_Call_API_ChangeName</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/28_Call_API_ChangeName</property>
+  <property name="name">Test Cases/1512194/28_Call_API_ChangeName</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/28_Call_API_ChangeName</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\28_Call_API_ChangeName.tc</property>
+  <property name="id">Test Cases/1512194/28_Call_API_ChangeName</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\28_Call_API_ChangeName.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -35199,7 +35199,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/28_Call_API_ChangeName\&amp;quot;))</message>
+  <message>Start action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/28_Call_API_ChangeName\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">18</property>
   <property name="stepIndex">1</property>
@@ -35235,7 +35235,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/28_Call_API_ChangeName\&amp;quot;))</message>
+  <message>End action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/28_Call_API_ChangeName\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35246,7 +35246,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/28_Call_API_ChangeName</message>
+  <message>Test Cases/1512194/28_Call_API_ChangeName</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35257,7 +35257,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/28_Call_API_ChangeName</message>
+  <message>End Test Case : Test Cases/1512194/28_Call_API_ChangeName</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -35268,12 +35268,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/29_Call_API_ResetPassword</message>
+  <message>Start Test Case : Test Cases/1512194/29_Call_API_ResetPassword</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/29_Call_API_ResetPassword</property>
+  <property name="name">Test Cases/1512194/29_Call_API_ResetPassword</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/29_Call_API_ResetPassword</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\29_Call_API_ResetPassword.tc</property>
+  <property name="id">Test Cases/1512194/29_Call_API_ResetPassword</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\29_Call_API_ResetPassword.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -35285,7 +35285,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/29_Call_API_ResetPassword\&amp;quot;))</message>
+  <message>Start action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/29_Call_API_ResetPassword\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">18</property>
   <property name="stepIndex">1</property>
@@ -35321,7 +35321,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/29_Call_API_ResetPassword\&amp;quot;))</message>
+  <message>End action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/29_Call_API_ResetPassword\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35332,7 +35332,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/29_Call_API_ResetPassword</message>
+  <message>Test Cases/1512194/29_Call_API_ResetPassword</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35343,7 +35343,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/29_Call_API_ResetPassword</message>
+  <message>End Test Case : Test Cases/1512194/29_Call_API_ResetPassword</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -35354,12 +35354,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/30_Call_API_Set_Permission</message>
+  <message>Start Test Case : Test Cases/1512194/30_Call_API_Set_Permission</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/30_Call_API_Set_Permission</property>
+  <property name="name">Test Cases/1512194/30_Call_API_Set_Permission</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/30_Call_API_Set_Permission</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\30_Call_API_Set_Permission.tc</property>
+  <property name="id">Test Cases/1512194/30_Call_API_Set_Permission</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\30_Call_API_Set_Permission.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -35371,7 +35371,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/30_Call_API_Set_Permission\&amp;quot;))</message>
+  <message>Start action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/30_Call_API_Set_Permission\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">18</property>
   <property name="stepIndex">1</property>
@@ -35407,7 +35407,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/30_Call_API_Set_Permission\&amp;quot;))</message>
+  <message>End action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/30_Call_API_Set_Permission\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35418,7 +35418,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/30_Call_API_Set_Permission</message>
+  <message>Test Cases/1512194/30_Call_API_Set_Permission</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35429,7 +35429,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/30_Call_API_Set_Permission</message>
+  <message>End Test Case : Test Cases/1512194/30_Call_API_Set_Permission</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -35440,12 +35440,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/31_Call_API_Search_User</message>
+  <message>Start Test Case : Test Cases/1512194/31_Call_API_Search_User</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/31_Call_API_Search_User</property>
+  <property name="name">Test Cases/1512194/31_Call_API_Search_User</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/31_Call_API_Search_User</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\31_Call_API_Search_User.tc</property>
+  <property name="id">Test Cases/1512194/31_Call_API_Search_User</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\31_Call_API_Search_User.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -35457,7 +35457,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/31_Call_API_Search_User\&amp;quot;))</message>
+  <message>Start action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/31_Call_API_Search_User\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">18</property>
   <property name="stepIndex">1</property>
@@ -35493,7 +35493,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/31_Call_API_Search_User\&amp;quot;))</message>
+  <message>End action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/31_Call_API_Search_User\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35504,7 +35504,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/31_Call_API_Search_User</message>
+  <message>Test Cases/1512194/31_Call_API_Search_User</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35515,7 +35515,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/31_Call_API_Search_User</message>
+  <message>End Test Case : Test Cases/1512194/31_Call_API_Search_User</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -35526,12 +35526,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/32_Call_API_Search_Tokens</message>
+  <message>Start Test Case : Test Cases/1512194/32_Call_API_Search_Tokens</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/32_Call_API_Search_Tokens</property>
+  <property name="name">Test Cases/1512194/32_Call_API_Search_Tokens</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/32_Call_API_Search_Tokens</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\32_Call_API_Search_Tokens.tc</property>
+  <property name="id">Test Cases/1512194/32_Call_API_Search_Tokens</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\32_Call_API_Search_Tokens.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -35543,7 +35543,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/32_Call_API_Search_Tokens\&amp;quot;))</message>
+  <message>Start action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/32_Call_API_Search_Tokens\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">18</property>
   <property name="stepIndex">1</property>
@@ -35579,7 +35579,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/32_Call_API_Search_Tokens\&amp;quot;))</message>
+  <message>End action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/32_Call_API_Search_Tokens\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35590,7 +35590,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/32_Call_API_Search_Tokens</message>
+  <message>Test Cases/1512194/32_Call_API_Search_Tokens</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35601,7 +35601,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/32_Call_API_Search_Tokens</message>
+  <message>End Test Case : Test Cases/1512194/32_Call_API_Search_Tokens</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -35612,12 +35612,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/33_Call_API_Get_Jobs</message>
+  <message>Start Test Case : Test Cases/1512194/33_Call_API_Get_Jobs</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/33_Call_API_Get_Jobs</property>
+  <property name="name">Test Cases/1512194/33_Call_API_Get_Jobs</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/33_Call_API_Get_Jobs</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\33_Call_API_Get_Jobs.tc</property>
+  <property name="id">Test Cases/1512194/33_Call_API_Get_Jobs</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\33_Call_API_Get_Jobs.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -35629,7 +35629,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/33_Call_API_Get_Jobs\&amp;quot;))</message>
+  <message>Start action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/33_Call_API_Get_Jobs\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">18</property>
   <property name="stepIndex">1</property>
@@ -35665,7 +35665,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/33_Call_API_Get_Jobs\&amp;quot;))</message>
+  <message>End action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/33_Call_API_Get_Jobs\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35676,7 +35676,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/33_Call_API_Get_Jobs</message>
+  <message>Test Cases/1512194/33_Call_API_Get_Jobs</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35687,7 +35687,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/33_Call_API_Get_Jobs</message>
+  <message>End Test Case : Test Cases/1512194/33_Call_API_Get_Jobs</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -35698,12 +35698,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/34_Call_API_Create_Job_By_Type</message>
+  <message>Start Test Case : Test Cases/1512194/34_Call_API_Create_Job_By_Type</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/34_Call_API_Create_Job_By_Type</property>
+  <property name="name">Test Cases/1512194/34_Call_API_Create_Job_By_Type</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/34_Call_API_Create_Job_By_Type</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\34_Call_API_Create_Job_By_Type.tc</property>
+  <property name="id">Test Cases/1512194/34_Call_API_Create_Job_By_Type</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\34_Call_API_Create_Job_By_Type.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -35715,7 +35715,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/33_Call_API_Get_Jobs\&amp;quot;))</message>
+  <message>Start action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/33_Call_API_Get_Jobs\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">18</property>
   <property name="stepIndex">1</property>
@@ -35751,7 +35751,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/33_Call_API_Get_Jobs\&amp;quot;))</message>
+  <message>End action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/33_Call_API_Get_Jobs\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35762,7 +35762,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/34_Call_API_Create_Job_By_Type</message>
+  <message>Test Cases/1512194/34_Call_API_Create_Job_By_Type</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35773,7 +35773,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/34_Call_API_Create_Job_By_Type</message>
+  <message>End Test Case : Test Cases/1512194/34_Call_API_Create_Job_By_Type</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>
@@ -35784,12 +35784,12 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startTest</method>
   <thread>1</thread>
-  <message>Start Test Case : Test Cases/1612567/35_Call_API_Cancel_Job</message>
+  <message>Start Test Case : Test Cases/1512194/35_Call_API_Cancel_Job</message>
   <nestedLevel>1</nestedLevel>
-  <property name="name">Test Cases/1612567/35_Call_API_Cancel_Job</property>
+  <property name="name">Test Cases/1512194/35_Call_API_Cancel_Job</property>
   <property name="description"></property>
-  <property name="id">Test Cases/1612567/35_Call_API_Cancel_Job</property>
-  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1612567\\35_Call_API_Cancel_Job.tc</property>
+  <property name="id">Test Cases/1512194/35_Call_API_Cancel_Job</property>
+  <property name="source">C:\\Users\\Thanh\\Desktop\\github.com\\New folder (2)\\homeword02-mattermost-katalon\\Test Cases\\1512194\\35_Call_API_Cancel_Job.tc</property>
   <property name="tag"></property>
   <property name="isOptional">false</property>
 </record>
@@ -35801,7 +35801,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>startKeyword</method>
   <thread>1</thread>
-  <message>Start action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/33_Call_API_Get_Jobs\&amp;quot;))</message>
+  <message>Start action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/33_Call_API_Get_Jobs\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
   <property name="startLine">18</property>
   <property name="stepIndex">1</property>
@@ -35837,7 +35837,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endKeyword</method>
   <thread>1</thread>
-  <message>End action : sendRequest(findTestObject(\&amp;quot;1612567/API TESTING/33_Call_API_Get_Jobs\&amp;quot;))</message>
+  <message>End action : sendRequest(findTestObject(\&amp;quot;1512194/API TESTING/33_Call_API_Get_Jobs\&amp;quot;))</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35848,7 +35848,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>logMessage</method>
   <thread>1</thread>
-  <message>Test Cases/1612567/35_Call_API_Cancel_Job</message>
+  <message>Test Cases/1512194/35_Call_API_Cancel_Job</message>
   <nestedLevel>1</nestedLevel>
 </record>
 <record>
@@ -35859,7 +35859,7 @@
   <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
   <method>endTest</method>
   <thread>1</thread>
-  <message>End Test Case : Test Cases/1612567/35_Call_API_Cancel_Job</message>
+  <message>End Test Case : Test Cases/1512194/35_Call_API_Cancel_Job</message>
   <nestedLevel>0</nestedLevel>
 </record>
 <record>

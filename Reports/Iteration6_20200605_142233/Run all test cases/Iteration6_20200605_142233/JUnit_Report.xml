@@ -5605,8 +5605,8 @@ Caused by: java.lang.IllegalArgumentException: Object is null
 	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
 	... 19 more]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/21_CommentChannel" time="50.496" classname="Test Cases/1612567/21_CommentChannel" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:52:42 - [TEST_CASE][PASSED] - Test Cases/1612567/21_CommentChannel: Test Cases/1612567/21_CommentChannel
+      <testcase name="Test Cases/1512194/21_CommentChannel" time="50.496" classname="Test Cases/1512194/21_CommentChannel" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:52:42 - [TEST_CASE][PASSED] - Test Cases/1512194/21_CommentChannel: Test Cases/1512194/21_CommentChannel
 
 2020-06-05 14:52:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -5622,61 +5622,61 @@ Caused by: java.lang.IllegalArgumentException: Object is null
 
 2020-06-05 14:52:53 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/login' successfully
 
-2020-06-05 14:52:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 14:52:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 14:52:55 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 14:52:55 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 14:52:55 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:52:55 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:52:56 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:52:56 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:52:56 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:52:56 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:52:57 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612567/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:52:57 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512194/21_CommentChannel/Page_Mattermost/input_All team communication in one place s_2f2733'
 
 2020-06-05 14:52:57 - [TEST_STEP][PASSED] - messages = ["Hi, I'm newbie", "Thanks", "Good morning!", "Shhh!"]: null
 
-2020-06-05 14:52:57 - [TEST_STEP][PASSED] - for (String message : messages): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:52:57 - [TEST_STEP][PASSED] - for (String message : messages): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:52:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), message): Text 'Hi, I'm newbie' is set on object 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:52:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), message): Text 'Hi, I'm newbie' is set on object 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:04 - [MESSAGE][PASSED] - Text 'Hi, I'm newbie' is set on object 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:04 - [MESSAGE][PASSED] - Text 'Hi, I'm newbie' is set on object 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:04 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:04 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:12 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:12 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), message): Text 'Thanks' is set on object 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), message): Text 'Thanks' is set on object 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:14 - [MESSAGE][PASSED] - Text 'Thanks' is set on object 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:14 - [MESSAGE][PASSED] - Text 'Thanks' is set on object 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:14 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:14 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:22 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:22 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), message): Text 'Good morning!' is set on object 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), message): Text 'Good morning!' is set on object 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:27 - [MESSAGE][PASSED] - Text 'Good morning!' is set on object 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:27 - [MESSAGE][PASSED] - Text 'Good morning!' is set on object 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:27 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:27 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:28 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:28 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), message): Text 'Shhh!' is set on object 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:28 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), message): Text 'Shhh!' is set on object 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:30 - [MESSAGE][PASSED] - Text 'Shhh!' is set on object 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:30 - [MESSAGE][PASSED] - Text 'Shhh!' is set on object 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:30 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:30 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
-2020-06-05 14:53:31 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612567/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
+2020-06-05 14:53:31 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512194/21_CommentChannel/Page_Town Square - eligendi Mattermost/textarea_Hi Im Nghie'
 
 2020-06-05 14:53:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 14:53:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/22_DirectMessage" time="25.845" classname="Test Cases/1612567/22_DirectMessage" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:53:32 - [TEST_CASE][PASSED] - Test Cases/1612567/22_DirectMessage: Test Cases/1612567/22_DirectMessage
+      <testcase name="Test Cases/1512194/22_DirectMessage" time="25.845" classname="Test Cases/1512194/22_DirectMessage" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:53:32 - [TEST_CASE][PASSED] - Test Cases/1512194/22_DirectMessage: Test Cases/1512194/22_DirectMessage
 
 2020-06-05 14:53:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -5690,61 +5690,61 @@ Caused by: java.lang.IllegalArgumentException: Object is null
 
 2020-06-05 14:53:39 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/login' successfully
 
-2020-06-05 14:53:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 14:53:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 14:53:42 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 14:53:42 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 14:53:42 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:53:42 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:53:42 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:53:42 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:53:42 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:53:42 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:53:43 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612567/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:53:43 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512194/22_DirectMessage/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:53:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_")): Object: 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_' is clicked on
+2020-06-05 14:53:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_")): Object: 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_' is clicked on
 
-2020-06-05 14:53:50 - [MESSAGE][PASSED] - Object: 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_' is clicked on
+2020-06-05 14:53:50 - [MESSAGE][PASSED] - Object: 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_' is clicked on
 
 2020-06-05 14:53:50 - [TEST_STEP][PASSED] - keys = ["me", "s"]: null
 
 2020-06-05 14:53:50 - [TEST_STEP][PASSED] - for (String key : keys): null
 
-2020-06-05 14:53:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input"), key): Text 'me' is set on object 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input'
+2020-06-05 14:53:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input"), key): Text 'me' is set on object 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input'
 
-2020-06-05 14:53:52 - [MESSAGE][PASSED] - Text 'me' is set on object 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input'
+2020-06-05 14:53:52 - [MESSAGE][PASSED] - Text 'me' is set on object 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input'
 
-2020-06-05 14:53:52 - [TEST_STEP][PASSED] - if (key == "me"): Object: 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)' is clicked on
+2020-06-05 14:53:52 - [TEST_STEP][PASSED] - if (key == "me"): Object: 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)' is clicked on
 
-2020-06-05 14:53:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)")): Object: 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)' is clicked on
+2020-06-05 14:53:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)")): Object: 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)' is clicked on
 
-2020-06-05 14:53:54 - [MESSAGE][PASSED] - Object: 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)' is clicked on
+2020-06-05 14:53:54 - [MESSAGE][PASSED] - Object: 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/span_aaronmedina - Aaron Medina (Centidel)' is clicked on
 
-2020-06-05 14:53:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input"), key): Text 's' is set on object 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input'
+2020-06-05 14:53:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input"), key): Text 's' is set on object 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input'
 
-2020-06-05 14:53:54 - [MESSAGE][PASSED] - Text 's' is set on object 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input'
+2020-06-05 14:53:54 - [MESSAGE][PASSED] - Text 's' is set on object 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/input_Search and add members_react-select-2-input'
 
 2020-06-05 14:53:54 - [TEST_STEP][PASSED] - if (key == "me"): null
 
-2020-06-05 14:53:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_aaronpeterson - Aaron Petersonuser-7sam_dd566b")): Object: 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_aaronpeterson - Aaron Petersonuser-7sam_dd566b' is clicked on
+2020-06-05 14:53:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_aaronpeterson - Aaron Petersonuser-7sam_dd566b")): Object: 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_aaronpeterson - Aaron Petersonuser-7sam_dd566b' is clicked on
 
-2020-06-05 14:53:56 - [MESSAGE][PASSED] - Object: 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_aaronpeterson - Aaron Petersonuser-7sam_dd566b' is clicked on
+2020-06-05 14:53:56 - [MESSAGE][PASSED] - Object: 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_aaronpeterson - Aaron Petersonuser-7sam_dd566b' is clicked on
 
-2020-06-05 14:53:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_user-36samplemattermostcom_more-modal___2272d4")): Object: 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_user-36samplemattermostcom_more-modal___2272d4' is clicked on
+2020-06-05 14:53:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_user-36samplemattermostcom_more-modal___2272d4")): Object: 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_user-36samplemattermostcom_more-modal___2272d4' is clicked on
 
-2020-06-05 14:53:57 - [MESSAGE][PASSED] - Object: 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_user-36samplemattermostcom_more-modal___2272d4' is clicked on
+2020-06-05 14:53:57 - [MESSAGE][PASSED] - Object: 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/div_user-36samplemattermostcom_more-modal___2272d4' is clicked on
 
-2020-06-05 14:53:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/button_Go")): Object: 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/button_Go' is clicked on
+2020-06-05 14:53:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/button_Go")): Object: 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/button_Go' is clicked on
 
-2020-06-05 14:53:58 - [MESSAGE][PASSED] - Object: 'Object Repository/1612567/22_DirectMessage/Page_Town Square - eligendi Mattermost/button_Go' is clicked on
+2020-06-05 14:53:58 - [MESSAGE][PASSED] - Object: 'Object Repository/1512194/22_DirectMessage/Page_Town Square - eligendi Mattermost/button_Go' is clicked on
 
 2020-06-05 14:53:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 14:53:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/23_Set_Domain_Email_SignUp" time="25.269" classname="Test Cases/1612567/23_Set_Domain_Email_SignUp" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:53:58 - [TEST_CASE][PASSED] - Test Cases/1612567/23_Set_Domain_Email_SignUp: Test Cases/1612567/23_Set_Domain_Email_SignUp
+      <testcase name="Test Cases/1512194/23_Set_Domain_Email_SignUp" time="25.269" classname="Test Cases/1512194/23_Set_Domain_Email_SignUp" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:53:58 - [TEST_CASE][PASSED] - Test Cases/1512194/23_Set_Domain_Email_SignUp: Test Cases/1512194/23_Set_Domain_Email_SignUp
 
 2020-06-05 14:54:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -5758,67 +5758,67 @@ Caused by: java.lang.IllegalArgumentException: Object is null
 
 2020-06-05 14:54:06 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/admin_console' successfully
 
-2020-06-05 14:54:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 14:54:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 14:54:09 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 14:54:09 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 14:54:09 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:54:09 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:54:10 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:54:10 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:54:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/span_Sign in")): Object: 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/span_Sign in' is clicked on
+2020-06-05 14:54:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/span_Sign in")): Object: 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 14:54:10 - [MESSAGE][PASSED] - Object: 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_Mattermost/span_Sign in' is clicked on
+2020-06-05 14:54:10 - [MESSAGE][PASSED] - Object: 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 14:54:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), "sign"): Text 'sign' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), "sign"): Text 'sign' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:14 - [MESSAGE][PASSED] - Text 'sign' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:14 - [MESSAGE][PASSED] - Text 'sign' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/mark_Signup")): Object: 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/mark_Signup' is clicked on
+2020-06-05 14:54:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/mark_Signup")): Object: 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/mark_Signup' is clicked on
 
-2020-06-05 14:54:15 - [MESSAGE][PASSED] - Object: 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/mark_Signup' is clicked on
+2020-06-05 14:54:15 - [MESSAGE][PASSED] - Object: 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/mark_Signup' is clicked on
 
 2020-06-05 14:54:15 - [TEST_STEP][PASSED] - domains = ["gmail.com ", "outlook.com ", "microsoft.com ", "yahoo.com"]: null
 
 2020-06-05 14:54:15 - [TEST_STEP][PASSED] - tmp = "": null
 
-2020-06-05 14:54:15 - [TEST_STEP][PASSED] - for (String domain : domains): Text 'gmail.com outlook.com microsoft.com yahoo.com' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
+2020-06-05 14:54:15 - [TEST_STEP][PASSED] - for (String domain : domains): Text 'gmail.com outlook.com microsoft.com yahoo.com' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
 
 2020-06-05 14:54:15 - [TEST_STEP][PASSED] - tmp += domain: null
 
-2020-06-05 14:54:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344"), tmp): Text 'gmail.com ' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
+2020-06-05 14:54:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344"), tmp): Text 'gmail.com ' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
 
-2020-06-05 14:54:16 - [MESSAGE][PASSED] - Text 'gmail.com ' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
+2020-06-05 14:54:16 - [MESSAGE][PASSED] - Text 'gmail.com ' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
 
 2020-06-05 14:54:16 - [TEST_STEP][PASSED] - tmp += domain: null
 
-2020-06-05 14:54:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344"), tmp): Text 'gmail.com outlook.com ' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
+2020-06-05 14:54:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344"), tmp): Text 'gmail.com outlook.com ' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
 
-2020-06-05 14:54:17 - [MESSAGE][PASSED] - Text 'gmail.com outlook.com ' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
+2020-06-05 14:54:17 - [MESSAGE][PASSED] - Text 'gmail.com outlook.com ' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
 
 2020-06-05 14:54:17 - [TEST_STEP][PASSED] - tmp += domain: null
 
-2020-06-05 14:54:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344"), tmp): Text 'gmail.com outlook.com microsoft.com ' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
+2020-06-05 14:54:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344"), tmp): Text 'gmail.com outlook.com microsoft.com ' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
 
-2020-06-05 14:54:19 - [MESSAGE][PASSED] - Text 'gmail.com outlook.com microsoft.com ' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
+2020-06-05 14:54:19 - [MESSAGE][PASSED] - Text 'gmail.com outlook.com microsoft.com ' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
 
 2020-06-05 14:54:19 - [TEST_STEP][PASSED] - tmp += domain: null
 
-2020-06-05 14:54:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344"), tmp): Text 'gmail.com outlook.com microsoft.com yahoo.com' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
+2020-06-05 14:54:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344"), tmp): Text 'gmail.com outlook.com microsoft.com yahoo.com' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
 
-2020-06-05 14:54:22 - [MESSAGE][PASSED] - Text 'gmail.com outlook.com microsoft.com yahoo.com' is set on object 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
+2020-06-05 14:54:22 - [MESSAGE][PASSED] - Text 'gmail.com outlook.com microsoft.com yahoo.com' is set on object 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/input_Restrict account creation to specifie_31c344'
 
-2020-06-05 14:54:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/span_Save")): Object: 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/span_Save' is clicked on
+2020-06-05 14:54:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/span_Save")): Object: 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/span_Save' is clicked on
 
-2020-06-05 14:54:23 - [MESSAGE][PASSED] - Object: 'Object Repository/1612567/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/span_Save' is clicked on
+2020-06-05 14:54:23 - [MESSAGE][PASSED] - Object: 'Object Repository/1512194/23_Set_Domain_Email_SignUp/Page_System Console - Mattermost/span_Save' is clicked on
 
 2020-06-05 14:54:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 14:54:24 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/24_Setting_Searching" time="26.758" classname="Test Cases/1612567/24_Setting_Searching" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:54:24 - [TEST_CASE][PASSED] - Test Cases/1612567/24_Setting_Searching: Test Cases/1612567/24_Setting_Searching
+      <testcase name="Test Cases/1512194/24_Setting_Searching" time="26.758" classname="Test Cases/1512194/24_Setting_Searching" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:54:24 - [TEST_CASE][PASSED] - Test Cases/1512194/24_Setting_Searching: Test Cases/1512194/24_Setting_Searching
 
 2020-06-05 14:54:24 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -5832,69 +5832,69 @@ Caused by: java.lang.IllegalArgumentException: Object is null
 
 2020-06-05 14:54:30 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/admin_console' successfully
 
-2020-06-05 14:54:30 - [TEST_STEP][PASSED] - setText(findTestObject("1612567/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1612567/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 14:54:30 - [TEST_STEP][PASSED] - setText(findTestObject("1512194/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1512194/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 14:54:33 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1612567/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 14:54:33 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1512194/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 14:54:33 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("1612567/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612567/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:54:33 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("1512194/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512194/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:54:34 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612567/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:54:34 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512194/24_Setting_Searching/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:54:34 - [TEST_STEP][PASSED] - click(findTestObject("1612567/24_Setting_Searching/Page_Mattermost/span_Sign in")): Object: 'Object Repository/1612567/24_Setting_Searching/Page_Mattermost/span_Sign in' is clicked on
+2020-06-05 14:54:34 - [TEST_STEP][PASSED] - click(findTestObject("1512194/24_Setting_Searching/Page_Mattermost/span_Sign in")): Object: 'Object Repository/1512194/24_Setting_Searching/Page_Mattermost/span_Sign in' is clicked on
 
-2020-06-05 14:54:34 - [MESSAGE][PASSED] - Object: 'Object Repository/1612567/24_Setting_Searching/Page_Mattermost/span_Sign in' is clicked on
+2020-06-05 14:54:34 - [MESSAGE][PASSED] - Object: 'Object Repository/1512194/24_Setting_Searching/Page_Mattermost/span_Sign in' is clicked on
 
 2020-06-05 14:54:34 - [TEST_STEP][PASSED] - keys = ["password", "sign", "database", "dev", "user"]: null
 
-2020-06-05 14:54:34 - [TEST_STEP][PASSED] - for (String key : keys): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:34 - [TEST_STEP][PASSED] - for (String key : keys): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:34 - [TEST_STEP][PASSED] - setText(findTestObject("1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), key): Text 'password' is set on object 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:34 - [TEST_STEP][PASSED] - setText(findTestObject("1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), key): Text 'password' is set on object 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:41 - [MESSAGE][PASSED] - Text 'password' is set on object 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:41 - [MESSAGE][PASSED] - Text 'password' is set on object 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:41 - [TEST_STEP][PASSED] - sendKeys(findTestObject("1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:41 - [TEST_STEP][PASSED] - sendKeys(findTestObject("1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:41 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:41 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:41 - [TEST_STEP][PASSED] - setText(findTestObject("1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), key): Text 'sign' is set on object 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:41 - [TEST_STEP][PASSED] - setText(findTestObject("1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), key): Text 'sign' is set on object 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:43 - [MESSAGE][PASSED] - Text 'sign' is set on object 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:43 - [MESSAGE][PASSED] - Text 'sign' is set on object 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:43 - [TEST_STEP][PASSED] - sendKeys(findTestObject("1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:43 - [TEST_STEP][PASSED] - sendKeys(findTestObject("1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:43 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:43 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:43 - [TEST_STEP][PASSED] - setText(findTestObject("1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), key): Text 'database' is set on object 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:43 - [TEST_STEP][PASSED] - setText(findTestObject("1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), key): Text 'database' is set on object 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:45 - [MESSAGE][PASSED] - Text 'database' is set on object 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:45 - [MESSAGE][PASSED] - Text 'database' is set on object 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:45 - [TEST_STEP][PASSED] - sendKeys(findTestObject("1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:45 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:45 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:45 - [TEST_STEP][PASSED] - setText(findTestObject("1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), key): Text 'dev' is set on object 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:45 - [TEST_STEP][PASSED] - setText(findTestObject("1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), key): Text 'dev' is set on object 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:47 - [MESSAGE][PASSED] - Text 'dev' is set on object 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:47 - [MESSAGE][PASSED] - Text 'dev' is set on object 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:47 - [TEST_STEP][PASSED] - sendKeys(findTestObject("1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:47 - [TEST_STEP][PASSED] - sendKeys(findTestObject("1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:47 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:47 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:47 - [TEST_STEP][PASSED] - setText(findTestObject("1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), key): Text 'user' is set on object 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:47 - [TEST_STEP][PASSED] - setText(findTestObject("1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), key): Text 'user' is set on object 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:49 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:49 - [MESSAGE][PASSED] - Text 'user' is set on object 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:49 - [TEST_STEP][PASSED] - sendKeys(findTestObject("1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:49 - [TEST_STEP][PASSED] - sendKeys(findTestObject("1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:54:50 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1612567/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:54:50 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/1512194/24_Setting_Searching/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
 2020-06-05 14:54:50 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 14:54:50 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/25_CORS_Setting" time="37.319" classname="Test Cases/1612567/25_CORS_Setting" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:54:50 - [TEST_CASE][PASSED] - Test Cases/1612567/25_CORS_Setting: Test Cases/1612567/25_CORS_Setting
+      <testcase name="Test Cases/1512194/25_CORS_Setting" time="37.319" classname="Test Cases/1512194/25_CORS_Setting" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:54:50 - [TEST_CASE][PASSED] - Test Cases/1512194/25_CORS_Setting: Test Cases/1512194/25_CORS_Setting
 
 2020-06-05 14:54:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
 
@@ -5908,159 +5908,159 @@ Caused by: java.lang.IllegalArgumentException: Object is null
 
 2020-06-05 14:54:59 - [MESSAGE][PASSED] - Navigate to 'http://localhost:8065/admin_console' successfully
 
-2020-06-05 14:54:59 - [TEST_STEP][PASSED] - setText(findTestObject("1612567/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 14:54:59 - [TEST_STEP][PASSED] - setText(findTestObject("1512194/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_703ef5"), "hcmus-cdnc"): Text 'hcmus-cdnc' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 14:55:04 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_703ef5'
+2020-06-05 14:55:04 - [MESSAGE][PASSED] - Text 'hcmus-cdnc' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_703ef5'
 
-2020-06-05 14:55:04 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("1612567/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1612567/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:55:04 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("1512194/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_2f2733"), "aeHFOx8jV/A="): Text ****** has been set on object 'Object Repository/1512194/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:55:05 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1612567/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_2f2733'
+2020-06-05 14:55:05 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/1512194/25_CORS_Setting/Page_Mattermost/input_All team communication in one place s_2f2733'
 
-2020-06-05 14:55:05 - [TEST_STEP][PASSED] - click(findTestObject("1612567/25_CORS_Setting/Page_Mattermost/button_Sign in")): Object: 'Object Repository/1612567/25_CORS_Setting/Page_Mattermost/button_Sign in' is clicked on
+2020-06-05 14:55:05 - [TEST_STEP][PASSED] - click(findTestObject("1512194/25_CORS_Setting/Page_Mattermost/button_Sign in")): Object: 'Object Repository/1512194/25_CORS_Setting/Page_Mattermost/button_Sign in' is clicked on
 
-2020-06-05 14:55:06 - [MESSAGE][PASSED] - Object: 'Object Repository/1612567/25_CORS_Setting/Page_Mattermost/button_Sign in' is clicked on
+2020-06-05 14:55:06 - [MESSAGE][PASSED] - Object: 'Object Repository/1512194/25_CORS_Setting/Page_Mattermost/button_Sign in' is clicked on
 
-2020-06-05 14:55:06 - [TEST_STEP][PASSED] - setText(findTestObject("1612567/25_CORS_Setting/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), "cor"): Text 'cor' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:55:06 - [TEST_STEP][PASSED] - setText(findTestObject("1512194/25_CORS_Setting/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter"), "cor"): Text 'cor' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:55:10 - [MESSAGE][PASSED] - Text 'cor' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
+2020-06-05 14:55:10 - [MESSAGE][PASSED] - Text 'cor' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/input_hcmus-cdnc_adminSidebarFilter'
 
-2020-06-05 14:55:10 - [TEST_STEP][PASSED] - click(findTestObject("1612567/25_CORS_Setting/Page_System Console - Mattermost/a_CORS")): Object: 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/a_CORS' is clicked on
+2020-06-05 14:55:10 - [TEST_STEP][PASSED] - click(findTestObject("1512194/25_CORS_Setting/Page_System Console - Mattermost/a_CORS")): Object: 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/a_CORS' is clicked on
 
-2020-06-05 14:55:11 - [MESSAGE][PASSED] - Object: 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/a_CORS' is clicked on
+2020-06-05 14:55:11 - [MESSAGE][PASSED] - Object: 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/a_CORS' is clicked on
 
 2020-06-05 14:55:11 - [TEST_STEP][PASSED] - hosts = ["https://facebook.com ", "https://news.com ", "https://mastermost.com ", "http://localhost:3000"]: null
 
 2020-06-05 14:55:11 - [TEST_STEP][PASSED] - tmp = "": null
 
-2020-06-05 14:55:11 - [TEST_STEP][PASSED] - for (String host : hosts): Text 'https://facebook.com https://news.com https://mastermost.com http://localhost:3000' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
+2020-06-05 14:55:11 - [TEST_STEP][PASSED] - for (String host : hosts): Text 'https://facebook.com https://news.com https://mastermost.com http://localhost:3000' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
 
 2020-06-05 14:55:11 - [TEST_STEP][PASSED] - tmp += host: null
 
-2020-06-05 14:55:11 - [TEST_STEP][PASSED] - setText(findTestObject("1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf"), tmp): Text 'https://facebook.com ' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
+2020-06-05 14:55:11 - [TEST_STEP][PASSED] - setText(findTestObject("1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf"), tmp): Text 'https://facebook.com ' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
 
-2020-06-05 14:55:12 - [MESSAGE][PASSED] - Text 'https://facebook.com ' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
+2020-06-05 14:55:12 - [MESSAGE][PASSED] - Text 'https://facebook.com ' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
 
 2020-06-05 14:55:12 - [TEST_STEP][PASSED] - tmp += host: null
 
-2020-06-05 14:55:12 - [TEST_STEP][PASSED] - setText(findTestObject("1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf"), tmp): Text 'https://facebook.com https://news.com ' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
+2020-06-05 14:55:12 - [TEST_STEP][PASSED] - setText(findTestObject("1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf"), tmp): Text 'https://facebook.com https://news.com ' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
 
-2020-06-05 14:55:15 - [MESSAGE][PASSED] - Text 'https://facebook.com https://news.com ' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
+2020-06-05 14:55:15 - [MESSAGE][PASSED] - Text 'https://facebook.com https://news.com ' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
 
 2020-06-05 14:55:15 - [TEST_STEP][PASSED] - tmp += host: null
 
-2020-06-05 14:55:15 - [TEST_STEP][PASSED] - setText(findTestObject("1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf"), tmp): Text 'https://facebook.com https://news.com https://mastermost.com ' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
+2020-06-05 14:55:15 - [TEST_STEP][PASSED] - setText(findTestObject("1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf"), tmp): Text 'https://facebook.com https://news.com https://mastermost.com ' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
 
-2020-06-05 14:55:17 - [MESSAGE][PASSED] - Text 'https://facebook.com https://news.com https://mastermost.com ' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
+2020-06-05 14:55:17 - [MESSAGE][PASSED] - Text 'https://facebook.com https://news.com https://mastermost.com ' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
 
 2020-06-05 14:55:17 - [TEST_STEP][PASSED] - tmp += host: null
 
-2020-06-05 14:55:17 - [TEST_STEP][PASSED] - setText(findTestObject("1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf"), tmp): Text 'https://facebook.com https://news.com https://mastermost.com http://localhost:3000' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
+2020-06-05 14:55:17 - [TEST_STEP][PASSED] - setText(findTestObject("1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf"), tmp): Text 'https://facebook.com https://news.com https://mastermost.com http://localhost:3000' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
 
-2020-06-05 14:55:21 - [MESSAGE][PASSED] - Text 'https://facebook.com https://news.com https://mastermost.com http://localhost:3000' is set on object 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
+2020-06-05 14:55:21 - [MESSAGE][PASSED] - Text 'https://facebook.com https://news.com https://mastermost.com http://localhost:3000' is set on object 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/input_Enable cross-origin requests from_Ser_d74bcf'
 
-2020-06-05 14:55:21 - [TEST_STEP][PASSED] - click(findTestObject("1612567/25_CORS_Setting/Page_System Console - Mattermost/button_Save")): Object: 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/button_Save' is clicked on
+2020-06-05 14:55:21 - [TEST_STEP][PASSED] - click(findTestObject("1512194/25_CORS_Setting/Page_System Console - Mattermost/button_Save")): Object: 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/button_Save' is clicked on
 
-2020-06-05 14:55:22 - [MESSAGE][PASSED] - Object: 'Object Repository/1612567/25_CORS_Setting/Page_System Console - Mattermost/button_Save' is clicked on
+2020-06-05 14:55:22 - [MESSAGE][PASSED] - Object: 'Object Repository/1512194/25_CORS_Setting/Page_System Console - Mattermost/button_Save' is clicked on
 
 2020-06-05 14:55:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
 
 2020-06-05 14:55:28 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/26_Call_API_Login" time="16.312" classname="Test Cases/1612567/26_Call_API_Login" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:55:28 - [TEST_CASE][PASSED] - Test Cases/1612567/26_Call_API_Login: Test Cases/1612567/26_Call_API_Login
+      <testcase name="Test Cases/1512194/26_Call_API_Login" time="16.312" classname="Test Cases/1512194/26_Call_API_Login" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:55:28 - [TEST_CASE][PASSED] - Test Cases/1512194/26_Call_API_Login: Test Cases/1512194/26_Call_API_Login
 
-2020-06-05 14:55:29 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1612567/API TESTING/26_Call_API_Login")): Send request successfully
+2020-06-05 14:55:29 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1512194/API TESTING/26_Call_API_Login")): Send request successfully
 
 2020-06-05 14:55:44 - [MESSAGE][INFO] - HAR: C:\Users\Thanh\Desktop\github.com\New folder (2)\homeword02-mattermost-katalon\Reports\20200605_142233\Run all test cases\20200605_142233\requests\main\0.har
 
 2020-06-05 14:55:44 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/27_Call_API_Channels_Info" time="0.525" classname="Test Cases/1612567/27_Call_API_Channels_Info" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:55:44 - [TEST_CASE][PASSED] - Test Cases/1612567/27_Call_API_Channels_Info: Test Cases/1612567/27_Call_API_Channels_Info
+      <testcase name="Test Cases/1512194/27_Call_API_Channels_Info" time="0.525" classname="Test Cases/1512194/27_Call_API_Channels_Info" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:55:44 - [TEST_CASE][PASSED] - Test Cases/1512194/27_Call_API_Channels_Info: Test Cases/1512194/27_Call_API_Channels_Info
 
-2020-06-05 14:55:45 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1612567/API TESTING/27_Call_API_Channels_Info")): Send request successfully
+2020-06-05 14:55:45 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1512194/API TESTING/27_Call_API_Channels_Info")): Send request successfully
 
 2020-06-05 14:55:45 - [MESSAGE][INFO] - HAR: C:\Users\Thanh\Desktop\github.com\New folder (2)\homeword02-mattermost-katalon\Reports\20200605_142233\Run all test cases\20200605_142233\requests\main\1.har
 
 2020-06-05 14:55:45 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/28_Call_API_ChangeName" time="0.639" classname="Test Cases/1612567/28_Call_API_ChangeName" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:55:45 - [TEST_CASE][PASSED] - Test Cases/1612567/28_Call_API_ChangeName: Test Cases/1612567/28_Call_API_ChangeName
+      <testcase name="Test Cases/1512194/28_Call_API_ChangeName" time="0.639" classname="Test Cases/1512194/28_Call_API_ChangeName" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:55:45 - [TEST_CASE][PASSED] - Test Cases/1512194/28_Call_API_ChangeName: Test Cases/1512194/28_Call_API_ChangeName
 
-2020-06-05 14:55:45 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1612567/API TESTING/28_Call_API_ChangeName")): Send request successfully
+2020-06-05 14:55:45 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1512194/API TESTING/28_Call_API_ChangeName")): Send request successfully
 
 2020-06-05 14:55:46 - [MESSAGE][INFO] - HAR: C:\Users\Thanh\Desktop\github.com\New folder (2)\homeword02-mattermost-katalon\Reports\20200605_142233\Run all test cases\20200605_142233\requests\main\2.har
 
 2020-06-05 14:55:46 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/29_Call_API_ResetPassword" time="0.579" classname="Test Cases/1612567/29_Call_API_ResetPassword" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:55:46 - [TEST_CASE][PASSED] - Test Cases/1612567/29_Call_API_ResetPassword: Test Cases/1612567/29_Call_API_ResetPassword
+      <testcase name="Test Cases/1512194/29_Call_API_ResetPassword" time="0.579" classname="Test Cases/1512194/29_Call_API_ResetPassword" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:55:46 - [TEST_CASE][PASSED] - Test Cases/1512194/29_Call_API_ResetPassword: Test Cases/1512194/29_Call_API_ResetPassword
 
-2020-06-05 14:55:46 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1612567/API TESTING/29_Call_API_ResetPassword")): Send request successfully
+2020-06-05 14:55:46 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1512194/API TESTING/29_Call_API_ResetPassword")): Send request successfully
 
 2020-06-05 14:55:46 - [MESSAGE][INFO] - HAR: C:\Users\Thanh\Desktop\github.com\New folder (2)\homeword02-mattermost-katalon\Reports\20200605_142233\Run all test cases\20200605_142233\requests\main\3.har
 
 2020-06-05 14:55:46 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/30_Call_API_Set_Permission" time="0.478" classname="Test Cases/1612567/30_Call_API_Set_Permission" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:55:46 - [TEST_CASE][PASSED] - Test Cases/1612567/30_Call_API_Set_Permission: Test Cases/1612567/30_Call_API_Set_Permission
+      <testcase name="Test Cases/1512194/30_Call_API_Set_Permission" time="0.478" classname="Test Cases/1512194/30_Call_API_Set_Permission" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:55:46 - [TEST_CASE][PASSED] - Test Cases/1512194/30_Call_API_Set_Permission: Test Cases/1512194/30_Call_API_Set_Permission
 
-2020-06-05 14:55:47 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1612567/API TESTING/30_Call_API_Set_Permission")): Send request successfully
+2020-06-05 14:55:47 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1512194/API TESTING/30_Call_API_Set_Permission")): Send request successfully
 
 2020-06-05 14:55:47 - [MESSAGE][INFO] - HAR: C:\Users\Thanh\Desktop\github.com\New folder (2)\homeword02-mattermost-katalon\Reports\20200605_142233\Run all test cases\20200605_142233\requests\main\4.har
 
 2020-06-05 14:55:47 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/31_Call_API_Search_User" time="0.458" classname="Test Cases/1612567/31_Call_API_Search_User" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:55:47 - [TEST_CASE][PASSED] - Test Cases/1612567/31_Call_API_Search_User: Test Cases/1612567/31_Call_API_Search_User
+      <testcase name="Test Cases/1512194/31_Call_API_Search_User" time="0.458" classname="Test Cases/1512194/31_Call_API_Search_User" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:55:47 - [TEST_CASE][PASSED] - Test Cases/1512194/31_Call_API_Search_User: Test Cases/1512194/31_Call_API_Search_User
 
-2020-06-05 14:55:47 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1612567/API TESTING/31_Call_API_Search_User")): Send request successfully
+2020-06-05 14:55:47 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1512194/API TESTING/31_Call_API_Search_User")): Send request successfully
 
 2020-06-05 14:55:47 - [MESSAGE][INFO] - HAR: C:\Users\Thanh\Desktop\github.com\New folder (2)\homeword02-mattermost-katalon\Reports\20200605_142233\Run all test cases\20200605_142233\requests\main\5.har
 
 2020-06-05 14:55:47 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/32_Call_API_Search_Tokens" time="0.471" classname="Test Cases/1612567/32_Call_API_Search_Tokens" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:55:47 - [TEST_CASE][PASSED] - Test Cases/1612567/32_Call_API_Search_Tokens: Test Cases/1612567/32_Call_API_Search_Tokens
+      <testcase name="Test Cases/1512194/32_Call_API_Search_Tokens" time="0.471" classname="Test Cases/1512194/32_Call_API_Search_Tokens" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:55:47 - [TEST_CASE][PASSED] - Test Cases/1512194/32_Call_API_Search_Tokens: Test Cases/1512194/32_Call_API_Search_Tokens
 
-2020-06-05 14:55:48 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1612567/API TESTING/32_Call_API_Search_Tokens")): Send request successfully
+2020-06-05 14:55:48 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1512194/API TESTING/32_Call_API_Search_Tokens")): Send request successfully
 
 2020-06-05 14:55:48 - [MESSAGE][INFO] - HAR: C:\Users\Thanh\Desktop\github.com\New folder (2)\homeword02-mattermost-katalon\Reports\20200605_142233\Run all test cases\20200605_142233\requests\main\6.har
 
 2020-06-05 14:55:48 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/33_Call_API_Get_Jobs" time="0.518" classname="Test Cases/1612567/33_Call_API_Get_Jobs" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:55:48 - [TEST_CASE][PASSED] - Test Cases/1612567/33_Call_API_Get_Jobs: Test Cases/1612567/33_Call_API_Get_Jobs
+      <testcase name="Test Cases/1512194/33_Call_API_Get_Jobs" time="0.518" classname="Test Cases/1512194/33_Call_API_Get_Jobs" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:55:48 - [TEST_CASE][PASSED] - Test Cases/1512194/33_Call_API_Get_Jobs: Test Cases/1512194/33_Call_API_Get_Jobs
 
-2020-06-05 14:55:48 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1612567/API TESTING/33_Call_API_Get_Jobs")): Send request successfully
+2020-06-05 14:55:48 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1512194/API TESTING/33_Call_API_Get_Jobs")): Send request successfully
 
 2020-06-05 14:55:48 - [MESSAGE][INFO] - HAR: C:\Users\Thanh\Desktop\github.com\New folder (2)\homeword02-mattermost-katalon\Reports\20200605_142233\Run all test cases\20200605_142233\requests\main\7.har
 
 2020-06-05 14:55:48 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/34_Call_API_Create_Job_By_Type" time="0.599" classname="Test Cases/1612567/34_Call_API_Create_Job_By_Type" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:55:48 - [TEST_CASE][PASSED] - Test Cases/1612567/34_Call_API_Create_Job_By_Type: Test Cases/1612567/34_Call_API_Create_Job_By_Type
+      <testcase name="Test Cases/1512194/34_Call_API_Create_Job_By_Type" time="0.599" classname="Test Cases/1512194/34_Call_API_Create_Job_By_Type" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:55:48 - [TEST_CASE][PASSED] - Test Cases/1512194/34_Call_API_Create_Job_By_Type: Test Cases/1512194/34_Call_API_Create_Job_By_Type
 
-2020-06-05 14:55:49 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1612567/API TESTING/33_Call_API_Get_Jobs")): Send request successfully
+2020-06-05 14:55:49 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1512194/API TESTING/33_Call_API_Get_Jobs")): Send request successfully
 
 2020-06-05 14:55:49 - [MESSAGE][INFO] - HAR: C:\Users\Thanh\Desktop\github.com\New folder (2)\homeword02-mattermost-katalon\Reports\20200605_142233\Run all test cases\20200605_142233\requests\main\8.har
 
 2020-06-05 14:55:49 - [MESSAGE][PASSED] - Send request successfully]]></system-out>
          <system-err><![CDATA[]]></system-err>
       </testcase>
-      <testcase name="Test Cases/1612567/35_Call_API_Cancel_Job" time="0.444" classname="Test Cases/1612567/35_Call_API_Cancel_Job" status="PASSED">
-         <system-out><![CDATA[2020-06-05 14:55:49 - [TEST_CASE][PASSED] - Test Cases/1612567/35_Call_API_Cancel_Job: Test Cases/1612567/35_Call_API_Cancel_Job
+      <testcase name="Test Cases/1512194/35_Call_API_Cancel_Job" time="0.444" classname="Test Cases/1512194/35_Call_API_Cancel_Job" status="PASSED">
+         <system-out><![CDATA[2020-06-05 14:55:49 - [TEST_CASE][PASSED] - Test Cases/1512194/35_Call_API_Cancel_Job: Test Cases/1512194/35_Call_API_Cancel_Job
 
-2020-06-05 14:55:49 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1612567/API TESTING/33_Call_API_Get_Jobs")): Send request successfully
+2020-06-05 14:55:49 - [TEST_STEP][PASSED] - sendRequest(findTestObject("1512194/API TESTING/33_Call_API_Get_Jobs")): Send request successfully
 
 2020-06-05 14:55:49 - [MESSAGE][INFO] - HAR: C:\Users\Thanh\Desktop\github.com\New folder (2)\homeword02-mattermost-katalon\Reports\20200605_142233\Run all test cases\20200605_142233\requests\main\9.har
 
